@@ -688,3 +688,6 @@
 [submodule "ZenPacks.jschroeder.GangliaMonitor-(zenoss)/repo"]
 	path = ZenPacks.jschroeder.GangliaMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.jschroeder.GangliaMonitor
+[submodule "ZenPacks.mcgov.IBMMQMonitor-(zenoss)/repo"]
+	path = ZenPacks.mcgov.IBMMQMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.mcgov.IBMMQMonitor
