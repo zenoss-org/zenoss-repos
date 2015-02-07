@@ -952,3 +952,6 @@
 [submodule "ZenPacks.community.SecurityOnion-(nelopsystems)/repo"]
 	path = ZenPacks.community.SecurityOnion-(nelopsystems)/repo
 	url = https://github.com/nelopsystems/ZenPacks.community.SecurityOnion
+[submodule "ZenPacks.zenoss.Microsoft.MSMQ-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Microsoft.MSMQ-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Microsoft.MSMQ
