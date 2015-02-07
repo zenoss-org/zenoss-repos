@@ -790,3 +790,6 @@
 [submodule "ZenPacks.RomanTykhonov.OracleDB-(zenoss)/repo"]
 	path = ZenPacks.RomanTykhonov.OracleDB-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.RomanTykhonov.OracleDB
+[submodule "ZenPacks.SCC.ShowGraphPortlet-(zenoss)/repo"]
+	path = ZenPacks.SCC.ShowGraphPortlet-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.SCC.ShowGraphPortlet
