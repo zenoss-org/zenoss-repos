@@ -73,3 +73,6 @@
 [submodule "ZenPacks.zenoss.CloudStack-(zenoss)/repo"]
 	path = ZenPacks.zenoss.CloudStack-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.CloudStack
+[submodule "ZenPacks.community.HPMon-(epuzanov)/repo"]
+	path = ZenPacks.community.HPMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.HPMon
