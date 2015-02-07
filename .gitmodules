@@ -1105,3 +1105,6 @@
 [submodule "ZenPacks.ndgov.keepalived-(itd-nd-gov)/repo"]
 	path = ZenPacks.ndgov.keepalived-(itd-nd-gov)/repo
 	url = https://github.com/itd-nd-gov/ZenPacks.ndgov.keepalived
+[submodule "ZenPacks.Enterasys.Resources-(alexunify)/repo"]
+	path = ZenPacks.Enterasys.Resources-(alexunify)/repo
+	url = https://github.com/alexunify/ZenPacks.Enterasys.Resources
