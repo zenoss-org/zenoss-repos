@@ -391,3 +391,6 @@
 [submodule "ZenPacks.AndreaConsadori.Funkwerk-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Funkwerk-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Funkwerk
+[submodule "ZenPacks.AndreaConsadori.MRV-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.MRV-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.MRV
