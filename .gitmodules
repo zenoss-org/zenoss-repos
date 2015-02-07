@@ -1264,3 +1264,6 @@
 [submodule "ZenPacks.zenoss.ApacheMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.ApacheMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.ApacheMonitor
+[submodule "ZenPacks.zenoss.DnsMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.DnsMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.DnsMonitor
