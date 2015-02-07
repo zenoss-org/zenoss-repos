@@ -709,3 +709,6 @@
 [submodule "ZenPacks.turner.CiscoMDS-(zenoss)/repo"]
 	path = ZenPacks.turner.CiscoMDS-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.turner.CiscoMDS
+[submodule "ZenPacks.AndreaConsadori.ASSP-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.ASSP-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.ASSP
