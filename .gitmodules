@@ -628,3 +628,6 @@
 [submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.LenovoRDThinkServer
+[submodule "ZenPacks.AndreaConsadori.MRV-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.MRV-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.MRV
