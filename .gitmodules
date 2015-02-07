@@ -313,3 +313,6 @@
 [submodule "ZenPacks.Jcolon.NortelMibs-(nyeates)/repo"]
 	path = ZenPacks.Jcolon.NortelMibs-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Jcolon.NortelMibs
+[submodule "ZenPacks.Lais.Asterisk-(nyeates)/repo"]
+	path = ZenPacks.Lais.Asterisk-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Lais.Asterisk
