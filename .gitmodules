@@ -133,3 +133,6 @@
 [submodule "ZenPacks.community.MsSQLMon-(epuzanov)/repo"]
 	path = ZenPacks.community.MsSQLMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.MsSQLMon
+[submodule "ZenPacks.community.CiscoEnvMon-(epuzanov)/repo"]
+	path = ZenPacks.community.CiscoEnvMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.CiscoEnvMon
