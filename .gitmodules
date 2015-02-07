@@ -181,3 +181,6 @@
 [submodule "ZenPacks.community.libvirt-(zenoss)/repo"]
 	path = ZenPacks.community.libvirt-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.libvirt
+[submodule "ZenPacks.dnalley.AMQPEventMonitor-(zenoss)/repo"]
+	path = ZenPacks.dnalley.AMQPEventMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.dnalley.AMQPEventMonitor
