@@ -1303,3 +1303,6 @@
 [submodule "ZenPacks.zenoss.RaphaelJS-(zenoss)/repo"]
 	path = ZenPacks.zenoss.RaphaelJS-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.RaphaelJS
+[submodule "ZenPacks.example.CustomOverview-(cluther)/repo"]
+	path = ZenPacks.example.CustomOverview-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.example.CustomOverview
