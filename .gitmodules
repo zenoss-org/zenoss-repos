@@ -373,3 +373,6 @@
 [submodule "ZenPacks.nerenther.XeroxPageCounts-(zenoss)/repo"]
 	path = ZenPacks.nerenther.XeroxPageCounts-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.nerenther.XeroxPageCounts
+[submodule "ZenPacks.networking.HPProcurve-(zenoss)/repo"]
+	path = ZenPacks.networking.HPProcurve-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.networking.HPProcurve
