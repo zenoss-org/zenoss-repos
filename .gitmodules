@@ -862,3 +862,6 @@
 [submodule "ZenPacks.community.SquidMon-(zenoss)/repo"]
 	path = ZenPacks.community.SquidMon-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.SquidMon
+[submodule "ZenPacks.community.SuSE-(zenoss)/repo"]
+	path = ZenPacks.community.SuSE-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.SuSE
