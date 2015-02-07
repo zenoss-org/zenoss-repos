@@ -442,3 +442,6 @@
 [submodule "ZenPacks.chudler.SentryCDU-(zenoss)/repo"]
 	path = ZenPacks.chudler.SentryCDU-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.chudler.SentryCDU
+[submodule "ZenPacks.community.Clariion-(zenoss)/repo"]
+	path = ZenPacks.community.Clariion-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Clariion
