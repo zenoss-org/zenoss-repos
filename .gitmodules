@@ -1447,3 +1447,6 @@
 [submodule "ZenPacks.Secure24.Check_NRPE-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.Check_NRPE-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.Check_NRPE
+[submodule "ZenPacks.Secure24.MSWindows.EventLog-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.MSWindows.EventLog-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.MSWindows.EventLog
