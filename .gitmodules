@@ -766,3 +766,6 @@
 [submodule "ZenPacks.Ironport.PerformanceGraphs-(zenoss)/repo"]
 	path = ZenPacks.Ironport.PerformanceGraphs-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Ironport.PerformanceGraphs
+[submodule "ZenPacks.Iwillfearnoevil.Powernet7930-(zenoss)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Powernet7930-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet7930
