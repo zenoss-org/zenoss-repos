@@ -1024,3 +1024,6 @@
 [submodule "ZenPacks.zenoss.Hadoop-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Hadoop-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Hadoop
+[submodule "ZenPacks.community.Docker-(ssvsergeyev)/repo"]
+	path = ZenPacks.community.Docker-(ssvsergeyev)/repo
+	url = https://github.com/ssvsergeyev/ZenPacks.community.Docker
