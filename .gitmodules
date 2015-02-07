@@ -832,3 +832,6 @@
 [submodule "ZenPacks.community.Fortigate-(zenoss)/repo"]
 	path = ZenPacks.community.Fortigate-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Fortigate
+[submodule "ZenPacks.community.GoogleSearch-(zenoss)/repo"]
+	path = ZenPacks.community.GoogleSearch-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.GoogleSearch
