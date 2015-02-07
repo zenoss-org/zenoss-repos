@@ -109,3 +109,6 @@
 [submodule "ZenPacks.zenoss.Puppet-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Puppet-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Puppet
+[submodule "ZenPacks.community.Memcached-(zenoss)/repo"]
+	path = ZenPacks.community.Memcached-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Memcached
