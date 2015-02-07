@@ -1330,3 +1330,6 @@
 [submodule "ZenPacks.community.MitsubishiUPS-(j053ph4)/repo"]
 	path = ZenPacks.community.MitsubishiUPS-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.MitsubishiUPS
+[submodule "ZenPacks.zenoss.CUC_CCMP-(love-cascadeo)/repo"]
+	path = ZenPacks.zenoss.CUC_CCMP-(love-cascadeo)/repo
+	url = https://github.com/love-cascadeo/ZenPacks.zenoss.CUC_CCMP
