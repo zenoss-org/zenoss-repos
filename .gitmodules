@@ -184,3 +184,6 @@
 [submodule "ZenPacks.dnalley.AMQPEventMonitor-(zenoss)/repo"]
 	path = ZenPacks.dnalley.AMQPEventMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.dnalley.AMQPEventMonitor
+[submodule "ZenPacks.community.PredictiveThreshold-(jcurry)/repo"]
+	path = ZenPacks.community.PredictiveThreshold-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.community.PredictiveThreshold
