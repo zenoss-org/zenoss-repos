@@ -1243,3 +1243,6 @@
 [submodule "ZenPacks.presidencia.WindowsWS-(luizzmizz)/repo"]
 	path = ZenPacks.presidencia.WindowsWS-(luizzmizz)/repo
 	url = https://github.com/luizzmizz/ZenPacks.presidencia.WindowsWS
+[submodule "ZenPacks.SNMP.UCDHardDisk-(beanfield33)/repo"]
+	path = ZenPacks.SNMP.UCDHardDisk-(beanfield33)/repo
+	url = https://github.com/beanfield33/ZenPacks.SNMP.UCDHardDisk
