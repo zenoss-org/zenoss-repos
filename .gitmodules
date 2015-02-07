@@ -262,3 +262,6 @@
 [submodule "ZenPacks.community.Varnish-(simplesconsultoria)/repo"]
 	path = ZenPacks.community.Varnish-(simplesconsultoria)/repo
 	url = https://github.com/simplesconsultoria/ZenPacks.community.Varnish
+[submodule "ZenPacks.community.VMwareESXMonitor-(zenoss)/repo"]
+	path = ZenPacks.community.VMwareESXMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.VMwareESXMonitor
