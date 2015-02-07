@@ -568,3 +568,6 @@
 [submodule "ZenPacks.community.WBEMDataSource-(epuzanov)/repo"]
 	path = ZenPacks.community.WBEMDataSource-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.WBEMDataSource
+[submodule "ZenPacks.BCN.Trango-(gobcn)/repo"]
+	path = ZenPacks.BCN.Trango-(gobcn)/repo
+	url = https://github.com/gobcn/ZenPacks.BCN.Trango
