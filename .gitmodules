@@ -34,3 +34,6 @@
 [submodule "Configuration-Ansible-Playbook-(eripa)/repo"]
 	path = Configuration-Ansible-Playbook-(eripa)/repo
 	url = https://github.com/eripa/zenoss-ansible
+[submodule "Configuration-Salt-(taandrews)/repo"]
+	path = Configuration-Salt-(taandrews)/repo
+	url = https://github.com/taandrews/Zenoss-4.2.4
