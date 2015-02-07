@@ -1369,3 +1369,6 @@
 [submodule "ZenPacks.Cascadeo.LDAPMonitorSync-(love-cascadeo)/repo"]
 	path = ZenPacks.Cascadeo.LDAPMonitorSync-(love-cascadeo)/repo
 	url = https://github.com/love-cascadeo/ZenPacks.Cascadeo.LDAPMonitorSync
+[submodule "ZenPacks.community.InventoryComponents-(JosefJezek)/repo"]
+	path = ZenPacks.community.InventoryComponents-(JosefJezek)/repo
+	url = https://github.com/JosefJezek/ZenPacks.community.InventoryComponents
