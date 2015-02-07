@@ -592,3 +592,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Powernet9225-(nyeates)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Powernet9225-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Powernet9225
+[submodule "ZenPacks.Jcolon.NortelPassport-(nyeates)/repo"]
+	path = ZenPacks.Jcolon.NortelPassport-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Jcolon.NortelPassport
