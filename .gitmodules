@@ -940,3 +940,6 @@
 [submodule "ZenPacks.zenoss.ScrutinizerIntegrator-(zenoss)/repo"]
 	path = ZenPacks.zenoss.ScrutinizerIntegrator-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.ScrutinizerIntegrator
+[submodule "ZenPacks.ZenSystems.ApcPdu-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.ApcPdu-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcPdu
