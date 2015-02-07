@@ -673,3 +673,6 @@
 [submodule "ZenPacks.community.powerware-(zenoss)/repo"]
 	path = ZenPacks.community.powerware-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.powerware
+[submodule "ZenPacks.community.puppet-(zenoss)/repo"]
+	path = ZenPacks.community.puppet-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.puppet
