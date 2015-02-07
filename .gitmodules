@@ -739,3 +739,6 @@
 [submodule "ZenPacks.AndreaConsadori.Netasq-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Netasq-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Netasq
+[submodule "ZenPacks.AndreaConsadori.Pfsense-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Pfsense-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Pfsense
