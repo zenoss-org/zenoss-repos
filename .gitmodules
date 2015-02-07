@@ -157,3 +157,6 @@
 [submodule "ZenPacks.community.ZenODBC-(epuzanov)/repo"]
 	path = ZenPacks.community.ZenODBC-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.ZenODBC
+[submodule "ZenPacks.skills1st.TroubleTicket-(jcurry)/repo"]
+	path = ZenPacks.skills1st.TroubleTicket-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.TroubleTicket
