@@ -1501,3 +1501,6 @@
 [submodule "ZenPacks.SteelHouseLabs.ZenossForwarder-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.ZenossForwarder-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.ZenossForwarder
+[submodule "ZenPacks.NWN.WindowsDevModeler-(dougsyer)/repo"]
+	path = ZenPacks.NWN.WindowsDevModeler-(dougsyer)/repo
+	url = https://github.com/dougsyer/ZenPacks.NWN.WindowsDevModeler
