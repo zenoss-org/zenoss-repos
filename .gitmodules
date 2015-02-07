@@ -805,3 +805,6 @@
 [submodule "ZenPacks.chitambira.mgeUPS-(zenoss)/repo"]
 	path = ZenPacks.chitambira.mgeUPS-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.chitambira.mgeUPS
+[submodule "ZenPacks.chudler.GoogleAppEngine-(zenoss)/repo"]
+	path = ZenPacks.chudler.GoogleAppEngine-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.chudler.GoogleAppEngine
