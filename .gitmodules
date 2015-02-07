@@ -1528,3 +1528,6 @@
 [submodule "ZenPacks.SteelHouseLabs.community.DistributedCollectors-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.community.DistributedCollectors-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.community.DistributedCollectors
+[submodule "ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless-(SteelHouseLabs)/repo"]
+	path = ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless
