@@ -544,3 +544,6 @@
 [submodule "ZenPacks.community.HAProxy-(alienth)/repo"]
 	path = ZenPacks.community.HAProxy-(alienth)/repo
 	url = https://github.com/alienth/ZenPacks.community.HAProxy
+[submodule "ZenPacks.community.ZenossProcessStats-(zenoss)/repo"]
+	path = ZenPacks.community.ZenossProcessStats-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.ZenossProcessStats
