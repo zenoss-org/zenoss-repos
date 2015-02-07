@@ -247,3 +247,6 @@
 [submodule "ZenPacks.zenoss.EsxTop-(zenoss)/repo"]
 	path = ZenPacks.zenoss.EsxTop-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.EsxTop
+[submodule "ZenPacks.nozen.HPUXMon-(zenoss)/repo"]
+	path = ZenPacks.nozen.HPUXMon-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.nozen.HPUXMon
