@@ -550,3 +550,6 @@
 [submodule "ZenPacks.ShaneScott.ProductionState-(zenoss)/repo"]
 	path = ZenPacks.ShaneScott.ProductionState-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.ShaneScott.ProductionState
+[submodule "ZenPacks.oie.KannelMonitor-(zenoss)/repo"]
+	path = ZenPacks.oie.KannelMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.oie.KannelMonitor
