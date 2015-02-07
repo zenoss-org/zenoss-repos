@@ -340,3 +340,6 @@
 [submodule "ZenPacks.AndreaConsadori.Asterisk-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Asterisk-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Asterisk
+[submodule "ZenPacks.AndreaConsadori.Funkwerk-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Funkwerk-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Funkwerk
