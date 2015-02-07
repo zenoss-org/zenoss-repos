@@ -256,3 +256,6 @@
 [submodule "ZenPacks.community.MySQLMon-(epuzanov)/repo"]
 	path = ZenPacks.community.MySQLMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.MySQLMon
+[submodule "ZenPacks.community.WMIPerf_Windows-(epuzanov)/repo"]
+	path = ZenPacks.community.WMIPerf_Windows-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.WMIPerf_Windows
