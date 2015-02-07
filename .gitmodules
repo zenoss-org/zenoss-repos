@@ -427,3 +427,6 @@
 [submodule "ZenPacks.PlixerInternational.Scrutinizer-(zenoss)/repo"]
 	path = ZenPacks.PlixerInternational.Scrutinizer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.PlixerInternational.Scrutinizer
+[submodule "ZenPacks.TijmenvandenBrink.Riverbed-(zenoss)/repo"]
+	path = ZenPacks.TijmenvandenBrink.Riverbed-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.TijmenvandenBrink.Riverbed
