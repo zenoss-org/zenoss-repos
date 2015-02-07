@@ -1207,3 +1207,6 @@
 [submodule "ZenPacks.Markit.RigHost-(jcurry)/repo"]
 	path = ZenPacks.Markit.RigHost-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.Markit.RigHost
+[submodule "ZenPacks.EE.HelloWorld-(EventEnrichment)/repo"]
+	path = ZenPacks.EE.HelloWorld-(EventEnrichment)/repo
+	url = https://github.com/EventEnrichment/ZenPacks.EE.HelloWorld
