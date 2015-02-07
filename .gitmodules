@@ -226,3 +226,6 @@
 [submodule "ZenPacks.community.Varnish3-(ZCA)/repo"]
 	path = ZenPacks.community.Varnish3-(ZCA)/repo
 	url = https://github.com/ZCA/ZenPacks.community.Varnish3
+[submodule "ZenPacks.community.WMIDataSource-(epuzanov)/repo"]
+	path = ZenPacks.community.WMIDataSource-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.WMIDataSource
