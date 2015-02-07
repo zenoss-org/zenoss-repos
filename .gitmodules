@@ -19,3 +19,6 @@
 [submodule "Script-RRD-to-CSV-(hackeys)/repo"]
 	path = Script-RRD-to-CSV-(hackeys)/repo
 	url = https://github.com/hackeys/zenossScripts
+[submodule "Configuration-Chef-Cookbook-Zenoss-Register-(themoore)/repo"]
+	path = Configuration-Chef-Cookbook-Zenoss-Register-(themoore)/repo
+	url = https://github.com/themoore/zenoss_register
