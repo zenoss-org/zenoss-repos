@@ -1378,3 +1378,6 @@
 [submodule "ZenPacks.zenoss.ZooKeeper-(zenoss)/repo"]
 	path = ZenPacks.zenoss.ZooKeeper-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.ZooKeeper
+[submodule "ZenPacks.Secure24.HTTP-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.HTTP-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.HTTP
