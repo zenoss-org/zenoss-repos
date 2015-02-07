@@ -142,3 +142,6 @@
 [submodule "ZenPacks.community.zenJavaApp-(j053ph4)/repo"]
 	path = ZenPacks.community.zenJavaApp-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenJavaApp
+[submodule "ZenPacks.skills1st.bridge-(zenoss)/repo"]
+	path = ZenPacks.skills1st.bridge-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.skills1st.bridge
