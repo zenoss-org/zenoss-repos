@@ -1453,3 +1453,6 @@
 [submodule "ZenPacks.Secure24.MSSharePoint-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.MSSharePoint-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.MSSharePoint
+[submodule "ZenPacks.community.JuniperPluggableOptics-(kb8u)/repo"]
+	path = ZenPacks.community.JuniperPluggableOptics-(kb8u)/repo
+	url = https://github.com/kb8u/ZenPacks.community.JuniperPluggableOptics
