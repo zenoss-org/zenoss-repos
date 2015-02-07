@@ -664,3 +664,6 @@
 [submodule "ZenPacks.community.Ubuntu-(zenoss)/repo"]
 	path = ZenPacks.community.Ubuntu-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Ubuntu
+[submodule "ZenPacks.community.eltek-(zenoss)/repo"]
+	path = ZenPacks.community.eltek-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.eltek
