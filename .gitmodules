@@ -598,3 +598,6 @@
 [submodule "ZenPacks.LearningObjects.PostgresqlMonitor-(nyeates)/repo"]
 	path = ZenPacks.LearningObjects.PostgresqlMonitor-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.LearningObjects.PostgresqlMonitor
+[submodule "ZenPacks.MJW.BarracudaMonitor-(nyeates)/repo"]
+	path = ZenPacks.MJW.BarracudaMonitor-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.MJW.BarracudaMonitor
