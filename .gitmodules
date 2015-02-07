@@ -154,3 +154,6 @@
 [submodule "ZenPacks.ZenSystems.Juniper-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.Juniper-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.Juniper
+[submodule "ZenPacks.community.ZenODBC-(epuzanov)/repo"]
+	path = ZenPacks.community.ZenODBC-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.ZenODBC
