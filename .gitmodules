@@ -1408,3 +1408,6 @@
 [submodule "ZenPacks.skills1st.snmpExtend-(jcurry)/repo"]
 	path = ZenPacks.skills1st.snmpExtend-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.snmpExtend
+[submodule "ZenPacks.skills1st.UserRoles-(jcurry)/repo"]
+	path = ZenPacks.skills1st.UserRoles-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.UserRoles
