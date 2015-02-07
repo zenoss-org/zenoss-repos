@@ -367,3 +367,6 @@
 [submodule "ZenPacks.community.WMIFilesMonitor-(zenoss)/repo"]
 	path = ZenPacks.community.WMIFilesMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.WMIFilesMonitor
+[submodule "ZenPacks.ipSLA.SLADevice-(zenoss)/repo"]
+	path = ZenPacks.ipSLA.SLADevice-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.ipSLA.SLADevice
