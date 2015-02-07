@@ -538,3 +538,6 @@
 [submodule "ZenPacks.community.ConstructionKit-(j053ph4)/repo"]
 	path = ZenPacks.community.ConstructionKit-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.ConstructionKit
+[submodule "ZenPacks.JanGaraj.TcpStat-(jangaraj)/repo"]
+	path = ZenPacks.JanGaraj.TcpStat-(jangaraj)/repo
+	url = https://github.com/jangaraj/ZenPacks.JanGaraj.TcpStat
