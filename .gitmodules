@@ -706,3 +706,6 @@
 [submodule "ZenPacks.synthetictransactions.SonnyStormes-(zenoss)/repo"]
 	path = ZenPacks.synthetictransactions.SonnyStormes-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.synthetictransactions.SonnyStormes
+[submodule "ZenPacks.turner.CiscoMDS-(zenoss)/repo"]
+	path = ZenPacks.turner.CiscoMDS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.turner.CiscoMDS
