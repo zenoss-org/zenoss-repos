@@ -571,3 +571,6 @@
 [submodule "ZenPacks.BCN.Trango-(gobcn)/repo"]
 	path = ZenPacks.BCN.Trango-(gobcn)/repo
 	url = https://github.com/gobcn/ZenPacks.BCN.Trango
+[submodule "ZenPacks.community.VMwareESXiMonitor-(vpl)/repo"]
+	path = ZenPacks.community.VMwareESXiMonitor-(vpl)/repo
+	url = https://github.com/vpl/ZenPacks.community.VMwareESXiMonitor
