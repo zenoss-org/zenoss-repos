@@ -448,3 +448,6 @@
 [submodule "ZenPacks.community.FDS-(zenoss)/repo"]
 	path = ZenPacks.community.FDS-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.FDS
+[submodule "ZenPacks.community.FormulaDataSource-(zenoss)/repo"]
+	path = ZenPacks.community.FormulaDataSource-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.FormulaDataSource
