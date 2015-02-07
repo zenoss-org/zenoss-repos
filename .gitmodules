@@ -1,3 +1,6 @@
 [submodule "Script-Alert-HipChat-(damascopaul)/repo"]
 	path = Script-Alert-HipChat-(damascopaul)/repo
 	url = https://github.com/damascopaul/zenoss-hippy
+[submodule "Script-Alert-Growl-(iamseth)/repo"]
+	path = Script-Alert-Growl-(iamseth)/repo
+	url = https://github.com/iamseth/Zenoss-to-Growl
