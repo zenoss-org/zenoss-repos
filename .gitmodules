@@ -802,3 +802,6 @@
 [submodule "ZenPacks.altea.SQLServer-(zenoss)/repo"]
 	path = ZenPacks.altea.SQLServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.altea.SQLServer
+[submodule "ZenPacks.chitambira.mgeUPS-(zenoss)/repo"]
+	path = ZenPacks.chitambira.mgeUPS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.chitambira.mgeUPS
