@@ -244,3 +244,6 @@
 [submodule "ZenPacks.zenoss.LinuxMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.LinuxMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.LinuxMonitor
+[submodule "ZenPacks.zenoss.EsxTop-(zenoss)/repo"]
+	path = ZenPacks.zenoss.EsxTop-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.EsxTop
