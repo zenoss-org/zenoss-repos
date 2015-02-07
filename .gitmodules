@@ -562,3 +562,6 @@
 [submodule "ZenPacks.community.NWMon-(epuzanov)/repo"]
 	path = ZenPacks.community.NWMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.NWMon
+[submodule "ZenPacks.community.VirtualIP-(epuzanov)/repo"]
+	path = ZenPacks.community.VirtualIP-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.VirtualIP
