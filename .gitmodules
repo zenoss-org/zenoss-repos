@@ -484,3 +484,6 @@
 [submodule "ZenPacks.community.NetWare-(zenoss)/repo"]
 	path = ZenPacks.community.NetWare-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.NetWare
+[submodule "ZenPacks.community.Netscaler-(zenoss)/repo"]
+	path = ZenPacks.community.Netscaler-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Netscaler
