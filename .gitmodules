@@ -259,3 +259,6 @@
 [submodule "ZenPacks.community.WMIPerf_Windows-(epuzanov)/repo"]
 	path = ZenPacks.community.WMIPerf_Windows-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.WMIPerf_Windows
+[submodule "ZenPacks.community.Varnish-(simplesconsultoria)/repo"]
+	path = ZenPacks.community.Varnish-(simplesconsultoria)/repo
+	url = https://github.com/simplesconsultoria/ZenPacks.community.Varnish
