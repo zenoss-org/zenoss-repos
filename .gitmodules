@@ -874,3 +874,6 @@
 [submodule "ZenPacks.community.zenRedis-(j053ph4)/repo"]
 	path = ZenPacks.community.zenRedis-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenRedis
+[submodule "ZenPacks.zenoss.Zentrospect-(cluther)/repo"]
+	path = ZenPacks.zenoss.Zentrospect-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.zenoss.Zentrospect
