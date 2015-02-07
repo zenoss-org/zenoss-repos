@@ -853,3 +853,6 @@
 [submodule "ZenPacks.community.Netbotz-(zenoss)/repo"]
 	path = ZenPacks.community.Netbotz-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Netbotz
+[submodule "ZenPacks.community.PointThreshold-(zenoss)/repo"]
+	path = ZenPacks.community.PointThreshold-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.PointThreshold
