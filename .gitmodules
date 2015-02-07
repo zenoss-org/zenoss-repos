@@ -685,3 +685,6 @@
 [submodule "ZenPacks.fdeckert.reports-(zenoss)/repo"]
 	path = ZenPacks.fdeckert.reports-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.fdeckert.reports
+[submodule "ZenPacks.jschroeder.GangliaMonitor-(zenoss)/repo"]
+	path = ZenPacks.jschroeder.GangliaMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.jschroeder.GangliaMonitor
