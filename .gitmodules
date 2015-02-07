@@ -964,3 +964,6 @@
 [submodule "ZenPacks.zenoss.MikroTik-(zenoss)/repo"]
 	path = ZenPacks.zenoss.MikroTik-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.MikroTik
+[submodule "ZenPacks.Nova.Cisco.Mibs-(nyeates)/repo"]
+	path = ZenPacks.Nova.Cisco.Mibs-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nova.Cisco.Mibs
