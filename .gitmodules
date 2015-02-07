@@ -1087,3 +1087,6 @@
 [submodule "ZenPacks.zenoss.LDAPMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.LDAPMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.LDAPMonitor
+[submodule "ZenPacks.zenoss.MSMQMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.MSMQMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.MSMQMonitor
