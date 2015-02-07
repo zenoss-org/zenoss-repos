@@ -1030,3 +1030,6 @@
 [submodule "ZenPacks.BCN.Ubiquiti-(gobcn)/repo"]
 	path = ZenPacks.BCN.Ubiquiti-(gobcn)/repo
 	url = https://github.com/gobcn/ZenPacks.BCN.Ubiquiti
+[submodule "ZenPacks.ssv.OrgModeler-(sergevs)/repo"]
+	path = ZenPacks.ssv.OrgModeler-(sergevs)/repo
+	url = https://github.com/sergevs/ZenPacks.ssv.OrgModeler
