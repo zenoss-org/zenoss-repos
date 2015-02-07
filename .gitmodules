@@ -622,3 +622,6 @@
 [submodule "ZenPacks.AndreaConsadori.Exchange2007WMI-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Exchange2007WMI-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Exchange2007WMI
+[submodule "ZenPacks.AndreaConsadori.Iomega-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Iomega-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Iomega
