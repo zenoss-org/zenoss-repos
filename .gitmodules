@@ -1276,3 +1276,6 @@
 [submodule "ZenPacks.zenoss.ZenJMX-(zenoss)/repo"]
 	path = ZenPacks.zenoss.ZenJMX-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.ZenJMX
+[submodule "ZenPacks.Eseye.ActiveMQ-(jslvtr)/repo"]
+	path = ZenPacks.Eseye.ActiveMQ-(jslvtr)/repo
+	url = https://github.com/jslvtr/ZenPacks.Eseye.ActiveMQ
