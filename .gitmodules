@@ -1420,3 +1420,6 @@
 [submodule "ZenPacks.community.AvayaVoicePortal-(j053ph4)/repo"]
 	path = ZenPacks.community.AvayaVoicePortal-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.AvayaVoicePortal
+[submodule "ZenPacks.community.DB2Mon-(j053ph4)/repo"]
+	path = ZenPacks.community.DB2Mon-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.DB2Mon
