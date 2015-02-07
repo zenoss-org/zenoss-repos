@@ -85,3 +85,6 @@
 [submodule "ZenPacks.community.OracleMon-(epuzanov)/repo"]
 	path = ZenPacks.community.OracleMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.OracleMon
+[submodule "ZenPacks.zenoss.RabbitMQ-(zenoss)/repo"]
+	path = ZenPacks.zenoss.RabbitMQ-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.RabbitMQ
