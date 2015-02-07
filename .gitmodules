@@ -619,3 +619,6 @@
 [submodule "ZenPacks.AndreaConsadori.Colubris-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Colubris-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Colubris
+[submodule "ZenPacks.AndreaConsadori.Exchange2007WMI-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Exchange2007WMI-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Exchange2007WMI
