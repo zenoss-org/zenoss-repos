@@ -982,3 +982,6 @@
 [submodule "ZenPacks.community.WMIPerf_TerminalServer-(zenoss)/repo"]
 	path = ZenPacks.community.WMIPerf_TerminalServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.WMIPerf_TerminalServer
+[submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.MSIAS_RadiusServer
