@@ -1510,3 +1510,6 @@
 [submodule "ZenPacks.community.snmp.HysteresisThreshold-(oxpa)/repo"]
 	path = ZenPacks.community.snmp.HysteresisThreshold-(oxpa)/repo
 	url = https://github.com/oxpa/ZenPacks.community.snmp.HysteresisThreshold
+[submodule "ZenPacks.Secure24.BaseMonitoring-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.BaseMonitoring-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.BaseMonitoring
