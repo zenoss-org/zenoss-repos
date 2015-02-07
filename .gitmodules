@@ -124,3 +124,6 @@
 [submodule "ZenPacks.zenoss.CloudFoundry-(zenoss)/repo"]
 	path = ZenPacks.zenoss.CloudFoundry-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.CloudFoundry
+[submodule "ZenPacks.community.ZeusLoadBalancer-(zenoss)/repo"]
+	path = ZenPacks.community.ZeusLoadBalancer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.ZeusLoadBalancer
