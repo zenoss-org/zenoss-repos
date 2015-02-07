@@ -979,3 +979,6 @@
 [submodule "ZenPacks.community.WMIPerf_Exchange2003-(zenoss)/repo"]
 	path = ZenPacks.community.WMIPerf_Exchange2003-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.WMIPerf_Exchange2003
+[submodule "ZenPacks.community.WMIPerf_TerminalServer-(zenoss)/repo"]
+	path = ZenPacks.community.WMIPerf_TerminalServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.WMIPerf_TerminalServer
