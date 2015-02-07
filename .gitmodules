@@ -517,3 +517,6 @@
 [submodule "ZenPacks.ShaneScott.SnmpName-(zenoss)/repo"]
 	path = ZenPacks.ShaneScott.SnmpName-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.ShaneScott.SnmpName
+[submodule "ZenPacks.ShaneScott.CPUCount-(zenoss)/repo"]
+	path = ZenPacks.ShaneScott.CPUCount-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.ShaneScott.CPUCount
