@@ -526,3 +526,6 @@
 [submodule "ZenPacks.community.LinMon_WBEM-(epuzanov)/repo"]
 	path = ZenPacks.community.LinMon_WBEM-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.LinMon_WBEM
+[submodule "ZenPacks.community.WMIPerf_IIS6-(epuzanov)/repo"]
+	path = ZenPacks.community.WMIPerf_IIS6-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.WMIPerf_IIS6
