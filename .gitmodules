@@ -490,3 +490,6 @@
 [submodule "ZenPacks.community.NokiaIPSO-(zenoss)/repo"]
 	path = ZenPacks.community.NokiaIPSO-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.NokiaIPSO
+[submodule "ZenPacks.community.OpenSolaris-(zenoss)/repo"]
+	path = ZenPacks.community.OpenSolaris-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.OpenSolaris
