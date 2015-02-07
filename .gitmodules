@@ -292,3 +292,6 @@
 [submodule "ZenPacks.zenoss.XenServer-(zenoss)/repo"]
 	path = ZenPacks.zenoss.XenServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.XenServer
+[submodule "ZenPacks.zenoss.PythonCollector-(zenoss)/repo"]
+	path = ZenPacks.zenoss.PythonCollector-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.PythonCollector
