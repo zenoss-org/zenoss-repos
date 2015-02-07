@@ -421,3 +421,6 @@
 [submodule "ZenPacks.Nova.UCDFileSystemMap-(zenoss)/repo"]
 	path = ZenPacks.Nova.UCDFileSystemMap-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nova.UCDFileSystemMap
+[submodule "ZenPacks.Opengear.MIBs-(zenoss)/repo"]
+	path = ZenPacks.Opengear.MIBs-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Opengear.MIBs
