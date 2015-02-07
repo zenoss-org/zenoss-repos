@@ -361,3 +361,6 @@
 [submodule "ZenPacks.community.NortelMon-(rebelinux)/repo"]
 	path = ZenPacks.community.NortelMon-(rebelinux)/repo
 	url = https://github.com/rebelinux/ZenPacks.community.NortelMon
+[submodule "ZenPacks.community.Tru64-(zenoss)/repo"]
+	path = ZenPacks.community.Tru64-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Tru64
