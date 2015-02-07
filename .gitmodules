@@ -1057,3 +1057,6 @@
 [submodule "ZenPacks.community.Netscaler-(jregovic)/repo"]
 	path = ZenPacks.community.Netscaler-(jregovic)/repo
 	url = https://github.com/jregovic/ZenPacks.community.Netscaler
+[submodule "ZenPacks.trebortech.layout-(trebortech)/repo"]
+	path = ZenPacks.trebortech.layout-(trebortech)/repo
+	url = https://github.com/trebortech/ZenPacks.trebortech.layout
