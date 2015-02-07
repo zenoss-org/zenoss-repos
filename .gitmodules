@@ -955,3 +955,6 @@
 [submodule "ZenPacks.zenoss.Microsoft.MSMQ-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Microsoft.MSMQ-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Microsoft.MSMQ
+[submodule "ZenPacks.cluther.AIN-(cluther)/repo"]
+	path = ZenPacks.cluther.AIN-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.cluther.AIN
