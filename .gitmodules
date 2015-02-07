@@ -1474,3 +1474,6 @@
 [submodule "ZenPacks.community.zenTerracottaClient-(j053ph4)/repo"]
 	path = ZenPacks.community.zenTerracottaClient-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenTerracottaClient
+[submodule "ZenPacks.community.zenTwillScriptComponent-(j053ph4)/repo"]
+	path = ZenPacks.community.zenTwillScriptComponent-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenTwillScriptComponent
