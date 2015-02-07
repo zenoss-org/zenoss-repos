@@ -949,3 +949,6 @@
 [submodule "ZenPacks.community.Socomec-(MatjazMocnik)/repo"]
 	path = ZenPacks.community.Socomec-(MatjazMocnik)/repo
 	url = https://github.com/MatjazMocnik/ZenPacks.community.Socomec
+[submodule "ZenPacks.community.SecurityOnion-(nelopsystems)/repo"]
+	path = ZenPacks.community.SecurityOnion-(nelopsystems)/repo
+	url = https://github.com/nelopsystems/ZenPacks.community.SecurityOnion
