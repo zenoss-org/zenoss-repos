@@ -1045,3 +1045,6 @@
 [submodule "ZenPacks.zenoss.WSMAN-(zenoss)/repo"]
 	path = ZenPacks.zenoss.WSMAN-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.WSMAN
+[submodule "ZenPacks.example.EvaluatedCommandModeler-(cluther)/repo"]
+	path = ZenPacks.example.EvaluatedCommandModeler-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.example.EvaluatedCommandModeler
