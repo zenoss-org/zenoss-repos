@@ -1054,3 +1054,6 @@
 [submodule "ZenPacks.jhanson.Clouseau-(jhanson)/repo"]
 	path = ZenPacks.jhanson.Clouseau-(jhanson)/repo
 	url = https://github.com/jhanson/ZenPacks.jhanson.Clouseau
+[submodule "ZenPacks.community.Netscaler-(jregovic)/repo"]
+	path = ZenPacks.community.Netscaler-(jregovic)/repo
+	url = https://github.com/jregovic/ZenPacks.community.Netscaler
