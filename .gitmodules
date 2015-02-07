@@ -988,3 +988,6 @@
 [submodule "ZenPacks.HP.Proliant.MIBs-(zenoss)/repo"]
 	path = ZenPacks.HP.Proliant.MIBs-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.HP.Proliant.MIBs
+[submodule "ZenPacks.JohnBeck.power.AP7841-(zenoss)/repo"]
+	path = ZenPacks.JohnBeck.power.AP7841-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.JohnBeck.power.AP7841
