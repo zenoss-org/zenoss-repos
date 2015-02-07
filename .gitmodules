@@ -1006,3 +1006,6 @@
 [submodule "ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(zenoss)/repo"]
 	path = ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nova.Windows.SNMPPerfMonitorSimple
+[submodule "ZenPacks.community.Netbotz_RackBotz-(zenoss)/repo"]
+	path = ZenPacks.community.Netbotz_RackBotz-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Netbotz_RackBotz
