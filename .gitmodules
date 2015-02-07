@@ -382,3 +382,6 @@
 [submodule "ZenPacks.vaibhav.brocadeswitches-(zenoss)/repo"]
 	path = ZenPacks.vaibhav.brocadeswitches-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.vaibhav.brocadeswitches
+[submodule "ZenPacks.vmware.VirtualMachines-(zenoss)/repo"]
+	path = ZenPacks.vmware.VirtualMachines-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.vmware.VirtualMachines
