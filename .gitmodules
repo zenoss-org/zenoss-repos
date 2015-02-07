@@ -601,3 +601,6 @@
 [submodule "ZenPacks.MJW.BarracudaMonitor-(nyeates)/repo"]
 	path = ZenPacks.MJW.BarracudaMonitor-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.MJW.BarracudaMonitor
+[submodule "ZenPacks.Nagios.CheckPing-(nyeates)/repo"]
+	path = ZenPacks.Nagios.CheckPing-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nagios.CheckPing
