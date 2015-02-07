@@ -529,3 +529,6 @@
 [submodule "ZenPacks.community.WMIPerf_IIS6-(epuzanov)/repo"]
 	path = ZenPacks.community.WMIPerf_IIS6-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.WMIPerf_IIS6
+[submodule "ZenPacks.community.NetappMon-(rebelinux)/repo"]
+	path = ZenPacks.community.NetappMon-(rebelinux)/repo
+	url = https://github.com/rebelinux/ZenPacks.community.NetappMon
