@@ -1450,3 +1450,6 @@
 [submodule "ZenPacks.Secure24.MSWindows.EventLog-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.MSWindows.EventLog-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.MSWindows.EventLog
+[submodule "ZenPacks.Secure24.MSSharePoint-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.MSSharePoint-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.MSSharePoint
