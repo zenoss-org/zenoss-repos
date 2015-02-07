@@ -1486,3 +1486,6 @@
 [submodule "ZenPacks.community.NetScreenDevice-(j053ph4)/repo"]
 	path = ZenPacks.community.NetScreenDevice-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.NetScreenDevice
+[submodule "ZenPacks.community.zenMongoDB-(j053ph4)/repo"]
+	path = ZenPacks.community.zenMongoDB-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenMongoDB
