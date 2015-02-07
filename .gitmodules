@@ -679,3 +679,6 @@
 [submodule "ZenPacks.fdeckert.myDeviceIssues-(zenoss)/repo"]
 	path = ZenPacks.fdeckert.myDeviceIssues-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.fdeckert.myDeviceIssues
+[submodule "ZenPacks.fdeckert.myeventviews-(zenoss)/repo"]
+	path = ZenPacks.fdeckert.myeventviews-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.fdeckert.myeventviews
