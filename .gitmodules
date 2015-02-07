@@ -286,3 +286,6 @@
 [submodule "ZenPacks.Rackspace.LinuxMonitor-(Hackman238)/repo"]
 	path = ZenPacks.Rackspace.LinuxMonitor-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.Rackspace.LinuxMonitor
+[submodule "ZenPacks.zenoss.OpenVZ-(zenoss)/repo"]
+	path = ZenPacks.zenoss.OpenVZ-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.OpenVZ
