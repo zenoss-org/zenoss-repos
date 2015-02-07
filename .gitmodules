@@ -1342,3 +1342,6 @@
 [submodule "ZenPacks.zenoss.CiscoPortlet-(love-cascadeo)/repo"]
 	path = ZenPacks.zenoss.CiscoPortlet-(love-cascadeo)/repo
 	url = https://github.com/love-cascadeo/ZenPacks.zenoss.CiscoPortlet
+[submodule "ZenPacks.community.BasicPing-(crouthamela)/repo"]
+	path = ZenPacks.community.BasicPing-(crouthamela)/repo
+	url = https://github.com/crouthamela/ZenPacks.community.BasicPing
