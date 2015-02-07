@@ -946,3 +946,6 @@
 [submodule "ZenPacks.ZenSystems.olsonPower-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.olsonPower-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.olsonPower
+[submodule "ZenPacks.community.Socomec-(MatjazMocnik)/repo"]
+	path = ZenPacks.community.Socomec-(MatjazMocnik)/repo
+	url = https://github.com/MatjazMocnik/ZenPacks.community.Socomec
