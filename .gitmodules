@@ -1339,3 +1339,6 @@
 [submodule "ZenPacks.community.FoundryLB-(j053ph4)/repo"]
 	path = ZenPacks.community.FoundryLB-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.FoundryLB
+[submodule "ZenPacks.zenoss.CiscoPortlet-(love-cascadeo)/repo"]
+	path = ZenPacks.zenoss.CiscoPortlet-(love-cascadeo)/repo
+	url = https://github.com/love-cascadeo/ZenPacks.zenoss.CiscoPortlet
