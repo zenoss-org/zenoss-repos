@@ -1285,3 +1285,6 @@
 [submodule "ZenPacks.zenoss.CiscoUCSDirector-(building39)/repo"]
 	path = ZenPacks.zenoss.CiscoUCSDirector-(building39)/repo
 	url = https://github.com/building39/ZenPacks.zenoss.CiscoUCSDirector
+[submodule "ZenPacks.community.CiscoWLC-(turingmachine)/repo"]
+	path = ZenPacks.community.CiscoWLC-(turingmachine)/repo
+	url = https://github.com/turingmachine/ZenPacks.community.CiscoWLC
