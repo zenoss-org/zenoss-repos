@@ -1168,3 +1168,6 @@
 [submodule "ZenPacks.community.Synology-(JosefJezek)/repo"]
 	path = ZenPacks.community.Synology-(JosefJezek)/repo
 	url = https://github.com/JosefJezek/ZenPacks.community.Synology
+[submodule "ZenPacks.zenoss.Dashboard-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Dashboard-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Dashboard
