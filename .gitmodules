@@ -613,3 +613,6 @@
 [submodule "ZenPacks.AndreaConsadori.Aruba-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Aruba-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Aruba
+[submodule "ZenPacks.AndreaConsadori.Asterisk16-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Asterisk16-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Asterisk16
