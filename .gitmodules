@@ -1183,3 +1183,6 @@
 [submodule "HPBladeChassis_Zenoss_2_5-(shelson)/repo"]
 	path = HPBladeChassis_Zenoss_2_5-(shelson)/repo
 	url = https://github.com/shelson/HPBladeChassis_Zenoss_2_5
+[submodule "ZenPacks.Merit.AdvaFSP3000R7-(kb8u)/repo"]
+	path = ZenPacks.Merit.AdvaFSP3000R7-(kb8u)/repo
+	url = https://github.com/kb8u/ZenPacks.Merit.AdvaFSP3000R7
