@@ -829,3 +829,6 @@
 [submodule "ZenPacks.community.Fedora-(zenoss)/repo"]
 	path = ZenPacks.community.Fedora-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Fedora
+[submodule "ZenPacks.community.Fortigate-(zenoss)/repo"]
+	path = ZenPacks.community.Fortigate-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Fortigate
