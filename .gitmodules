@@ -1012,3 +1012,6 @@
 [submodule "ZenPacks.ZenSystems.ApcAts-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.ApcAts-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcAts
+[submodule "ZenPacks.ZenSystems.DellUps-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.DellUps-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.DellUps
