@@ -856,3 +856,6 @@
 [submodule "ZenPacks.community.PointThreshold-(zenoss)/repo"]
 	path = ZenPacks.community.PointThreshold-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.PointThreshold
+[submodule "ZenPacks.community.RangeThreshold-(zenoss)/repo"]
+	path = ZenPacks.community.RangeThreshold-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.RangeThreshold
