@@ -691,3 +691,6 @@
 [submodule "ZenPacks.mcgov.IBMMQMonitor-(zenoss)/repo"]
 	path = ZenPacks.mcgov.IBMMQMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.mcgov.IBMMQMonitor
+[submodule "ZenPacks.smbambling.ActiveDirectory-(zenoss)/repo"]
+	path = ZenPacks.smbambling.ActiveDirectory-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.smbambling.ActiveDirectory
