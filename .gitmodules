@@ -871,3 +871,6 @@
 [submodule "ZenPacks.community.FlexLM-(sjthespian)/repo"]
 	path = ZenPacks.community.FlexLM-(sjthespian)/repo
 	url = https://github.com/sjthespian/ZenPacks.community.FlexLM
+[submodule "ZenPacks.community.zenRedis-(j053ph4)/repo"]
+	path = ZenPacks.community.zenRedis-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenRedis
