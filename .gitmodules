@@ -1240,3 +1240,6 @@
 [submodule "ZenPacks.luizzmizz.WindowsWS-(luizzmizz)/repo"]
 	path = ZenPacks.luizzmizz.WindowsWS-(luizzmizz)/repo
 	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.WindowsWS
+[submodule "ZenPacks.presidencia.WindowsWS-(luizzmizz)/repo"]
+	path = ZenPacks.presidencia.WindowsWS-(luizzmizz)/repo
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.WindowsWS
