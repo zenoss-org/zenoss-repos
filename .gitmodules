@@ -1483,3 +1483,6 @@
 [submodule "ZenPacks.community.AlphaPowerRectifier-(kb8u)/repo"]
 	path = ZenPacks.community.AlphaPowerRectifier-(kb8u)/repo
 	url = https://github.com/kb8u/ZenPacks.community.AlphaPowerRectifier
+[submodule "ZenPacks.community.NetScreenDevice-(j053ph4)/repo"]
+	path = ZenPacks.community.NetScreenDevice-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.NetScreenDevice
