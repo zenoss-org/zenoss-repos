@@ -274,3 +274,6 @@
 [submodule "ZenPacks.PagerDuty.APINotification-(PagerDuty)/repo"]
 	path = ZenPacks.PagerDuty.APINotification-(PagerDuty)/repo
 	url = https://github.com/PagerDuty/ZenPacks.PagerDuty.APINotification
+[submodule "ZenPacks.zenoss.Memcached-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Memcached-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Memcached
