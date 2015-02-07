@@ -748,3 +748,6 @@
 [submodule "ZenPacks.BlakeDrager.Bridgewave-(zenoss)/repo"]
 	path = ZenPacks.BlakeDrager.Bridgewave-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.BlakeDrager.Bridgewave
+[submodule "ZenPacks.BlakeDrager.fping-(zenoss)/repo"]
+	path = ZenPacks.BlakeDrager.fping-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.BlakeDrager.fping
