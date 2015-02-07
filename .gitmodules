@@ -403,3 +403,6 @@
 [submodule "ZenPacks.Ecocoms.OpenLayersMap-(zenoss)/repo"]
 	path = ZenPacks.Ecocoms.OpenLayersMap-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Ecocoms.OpenLayersMap
+[submodule "ZenPacks.Hyper.virtualMachines-(zenoss)/repo"]
+	path = ZenPacks.Hyper.virtualMachines-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Hyper.virtualMachines
