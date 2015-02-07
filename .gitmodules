@@ -1468,3 +1468,6 @@
 [submodule "ZenPacks.community.zenAppProfiler-(j053ph4)/repo"]
 	path = ZenPacks.community.zenAppProfiler-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenAppProfiler
+[submodule "ZenPacks.community.zenIbmMQ-(j053ph4)/repo"]
+	path = ZenPacks.community.zenIbmMQ-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenIbmMQ
