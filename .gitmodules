@@ -1531,3 +1531,6 @@
 [submodule "ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless
+[submodule "ZenPacks.skills1st.addEventFields-(jcurry)/repo"]
+	path = ZenPacks.skills1st.addEventFields-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.addEventFields
