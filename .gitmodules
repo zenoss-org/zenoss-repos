@@ -97,3 +97,6 @@
 [submodule "ZenPacks.community.HPBladeChassis-(zenoss)/repo"]
 	path = ZenPacks.community.HPBladeChassis-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.HPBladeChassis
+[submodule "ZenPacks.community.NetApp-(zenoss)/repo"]
+	path = ZenPacks.community.NetApp-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.NetApp
