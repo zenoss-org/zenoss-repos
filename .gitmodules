@@ -1525,3 +1525,6 @@
 [submodule "ZenPacks.SteelHouseLabs.Reports.Interface.Volume-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.Reports.Interface.Volume-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.Reports.Interface.Volume
+[submodule "ZenPacks.SteelHouseLabs.community.DistributedCollectors-(SteelHouseLabs)/repo"]
+	path = ZenPacks.SteelHouseLabs.community.DistributedCollectors-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.community.DistributedCollectors
