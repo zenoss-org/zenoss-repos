@@ -715,3 +715,6 @@
 [submodule "ZenPacks.AndreaConsadori.AlliedTelsys-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.AlliedTelsys-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.AlliedTelsys
+[submodule "ZenPacks.AndreaConsadori.Alvarion-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Alvarion-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Alvarion
