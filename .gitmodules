@@ -754,3 +754,6 @@
 [submodule "ZenPacks.DrD_Studios.BlueArc-(zenoss)/repo"]
 	path = ZenPacks.DrD_Studios.BlueArc-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.DrD_Studios.BlueArc
+[submodule "ZenPacks.Firestar.CiscoASA-(zenoss)/repo"]
+	path = ZenPacks.Firestar.CiscoASA-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Firestar.CiscoASA
