@@ -658,3 +658,6 @@
 [submodule "ZenPacks.community.SwiftCM2-(zenoss)/repo"]
 	path = ZenPacks.community.SwiftCM2-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.SwiftCM2
+[submodule "ZenPacks.community.TokyoTyrant-(zenoss)/repo"]
+	path = ZenPacks.community.TokyoTyrant-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.TokyoTyrant
