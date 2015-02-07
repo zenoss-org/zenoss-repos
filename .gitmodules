@@ -1348,3 +1348,6 @@
 [submodule "ZenPacks.CERIT_SC.Torque-(CERIT-SC)/repo"]
 	path = ZenPacks.CERIT_SC.Torque-(CERIT-SC)/repo
 	url = https://github.com/CERIT-SC/ZenPacks.CERIT_SC.Torque
+[submodule "ZenPacks.zenoss.XenMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.XenMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.XenMonitor
