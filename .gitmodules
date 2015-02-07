@@ -112,3 +112,6 @@
 [submodule "ZenPacks.community.Memcached-(zenoss)/repo"]
 	path = ZenPacks.community.Memcached-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Memcached
+[submodule "ZenPacks.rhybudd.alerts-(NetworksAreMadeOfString)/repo"]
+	path = ZenPacks.rhybudd.alerts-(NetworksAreMadeOfString)/repo
+	url = https://github.com/NetworksAreMadeOfString/ZenPacks.rhybudd.alerts
