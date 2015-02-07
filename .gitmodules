@@ -190,3 +190,6 @@
 [submodule "ZenPacks.atelepin.cbCiscoQOS-(atelepin)/repo"]
 	path = ZenPacks.atelepin.cbCiscoQOS-(atelepin)/repo
 	url = https://github.com/atelepin/ZenPacks.atelepin.cbCiscoQOS
+[submodule "ZenPacks.community.NginxStatus-(nickanderson)/repo"]
+	path = ZenPacks.community.NginxStatus-(nickanderson)/repo
+	url = https://github.com/nickanderson/ZenPacks.community.NginxStatus
