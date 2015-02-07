@@ -823,3 +823,6 @@
 [submodule "ZenPacks.community.DellSNMPTransforms-(zenoss)/repo"]
 	path = ZenPacks.community.DellSNMPTransforms-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.DellSNMPTransforms
+[submodule "ZenPacks.community.EmailPing-(zenoss)/repo"]
+	path = ZenPacks.community.EmailPing-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.EmailPing
