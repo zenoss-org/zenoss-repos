@@ -580,3 +580,6 @@
 [submodule "ZenPacks.community.IceCast2-(simplesconsultoria)/repo"]
 	path = ZenPacks.community.IceCast2-(simplesconsultoria)/repo
 	url = https://github.com/simplesconsultoria/ZenPacks.community.IceCast2
+[submodule "ZenPacks.AndreaConsadori.ASSP-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.ASSP-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.ASSP
