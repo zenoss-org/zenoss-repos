@@ -199,3 +199,6 @@
 [submodule "ZenPacks.Cascadeo.ZenRDS-(cascadeo)/repo"]
 	path = ZenPacks.Cascadeo.ZenRDS-(cascadeo)/repo
 	url = https://github.com/cascadeo/ZenPacks.Cascadeo.ZenRDS
+[submodule "ZenPacks.zenoss.MySqlMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.MySqlMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.MySqlMonitor
