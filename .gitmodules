@@ -1153,3 +1153,6 @@
 [submodule "ZenPacks.zenoss.MSExchange-(zenoss)/repo"]
 	path = ZenPacks.zenoss.MSExchange-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.MSExchange
+[submodule "ZenPacks.zenoss.NNTPMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.NNTPMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.NNTPMonitor
