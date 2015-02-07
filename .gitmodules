@@ -667,3 +667,6 @@
 [submodule "ZenPacks.community.eltek-(zenoss)/repo"]
 	path = ZenPacks.community.eltek-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.eltek
+[submodule "ZenPacks.community.groupreporting-(zenoss)/repo"]
+	path = ZenPacks.community.groupreporting-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.groupreporting
