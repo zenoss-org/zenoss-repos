@@ -79,3 +79,6 @@
 [submodule "ZenPacks.community.PgSQLMon-(epuzanov)/repo"]
 	path = ZenPacks.community.PgSQLMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.PgSQLMon
+[submodule "ZenPacks.community.SQLDataSource-(epuzanov)/repo"]
+	path = ZenPacks.community.SQLDataSource-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.SQLDataSource
