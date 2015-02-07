@@ -1246,3 +1246,6 @@
 [submodule "ZenPacks.SNMP.UCDHardDisk-(beanfield33)/repo"]
 	path = ZenPacks.SNMP.UCDHardDisk-(beanfield33)/repo
 	url = https://github.com/beanfield33/ZenPacks.SNMP.UCDHardDisk
+[submodule "ZenPacks.Cascadeo.ZenSmokeping-(cascadeo)/repo"]
+	path = ZenPacks.Cascadeo.ZenSmokeping-(cascadeo)/repo
+	url = https://github.com/cascadeo/ZenPacks.Cascadeo.ZenSmokeping
