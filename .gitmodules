@@ -937,3 +937,6 @@
 [submodule "ZenPacks.community.Memcached_Template-(zenoss)/repo"]
 	path = ZenPacks.community.Memcached_Template-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Memcached_Template
+[submodule "ZenPacks.zenoss.ScrutinizerIntegrator-(zenoss)/repo"]
+	path = ZenPacks.zenoss.ScrutinizerIntegrator-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.ScrutinizerIntegrator
