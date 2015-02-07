@@ -1117,3 +1117,6 @@
 [submodule "ZenPacks.andinod.KyoceraPrinter-(andinod)/repo"]
 	path = ZenPacks.andinod.KyoceraPrinter-(andinod)/repo
 	url = https://github.com/andinod/ZenPacks.andinod.KyoceraPrinter
+[submodule "ZenPacks.andinod.HPUXMonitor-(andinod)/repo"]
+	path = ZenPacks.andinod.HPUXMonitor-(andinod)/repo
+	url = https://github.com/andinod/ZenPacks.andinod.HPUXMonitor
