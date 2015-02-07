@@ -31,3 +31,6 @@
 [submodule "Configuration-Chef-Cookbook-(ZCA)/repo"]
 	path = Configuration-Chef-Cookbook-(ZCA)/repo
 	url = https://github.com/ZCA/zenoss-chef-cookbook
+[submodule "Configuration-Ansible-Playbook-(eripa)/repo"]
+	path = Configuration-Ansible-Playbook-(eripa)/repo
+	url = https://github.com/eripa/zenoss-ansible
