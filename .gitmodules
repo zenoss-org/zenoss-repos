@@ -616,3 +616,6 @@
 [submodule "ZenPacks.AndreaConsadori.Asterisk16-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Asterisk16-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Asterisk16
+[submodule "ZenPacks.AndreaConsadori.Colubris-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Colubris-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Colubris
