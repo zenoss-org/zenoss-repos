@@ -922,3 +922,6 @@
 [submodule "ZenPacks.community.WMIPerf_MSSQL-(zenoss)/repo"]
 	path = ZenPacks.community.WMIPerf_MSSQL-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.WMIPerf_MSSQL
+[submodule "ZenPacks.community.mib_utils-(zenoss)/repo"]
+	path = ZenPacks.community.mib_utils-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.mib_utils
