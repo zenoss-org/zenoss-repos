@@ -1099,3 +1099,6 @@
 [submodule "ZenPacks.Devex.frontend-(Devex)/repo"]
 	path = ZenPacks.Devex.frontend-(Devex)/repo
 	url = https://github.com/Devex/ZenPacks.Devex.frontend
+[submodule "ZenPacks.example.Portlet-(ssvsergeyev)/repo"]
+	path = ZenPacks.example.Portlet-(ssvsergeyev)/repo
+	url = https://github.com/ssvsergeyev/ZenPacks.example.Portlet
