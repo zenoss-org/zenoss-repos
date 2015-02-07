@@ -481,3 +481,6 @@
 [submodule "ZenPacks.community.MySQLSSH-(zenoss)/repo"]
 	path = ZenPacks.community.MySQLSSH-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.MySQLSSH
+[submodule "ZenPacks.community.NetWare-(zenoss)/repo"]
+	path = ZenPacks.community.NetWare-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.NetWare
