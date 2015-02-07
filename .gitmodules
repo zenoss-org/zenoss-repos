@@ -1270,3 +1270,6 @@
 [submodule "ZenPacks.zenoss.PySamba-(zenoss)/repo"]
 	path = ZenPacks.zenoss.PySamba-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.PySamba
+[submodule "ZenPacks.zenoss.WindowsMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.WindowsMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.WindowsMonitor
