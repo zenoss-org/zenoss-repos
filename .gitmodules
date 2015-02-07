@@ -1366,3 +1366,6 @@
 [submodule "ZenPacks.zenoss.FtpMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.FtpMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.FtpMonitor
+[submodule "ZenPacks.Cascadeo.LDAPMonitorSync-(love-cascadeo)/repo"]
+	path = ZenPacks.Cascadeo.LDAPMonitorSync-(love-cascadeo)/repo
+	url = https://github.com/love-cascadeo/ZenPacks.Cascadeo.LDAPMonitorSync
