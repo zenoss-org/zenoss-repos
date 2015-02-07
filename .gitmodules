@@ -334,3 +334,6 @@
 [submodule "ZenPacks.community.AIX-(nyeates)/repo"]
 	path = ZenPacks.community.AIX-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.community.AIX
+[submodule "ZenPacks.AndreaConsadori.Alvarion-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Alvarion-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Alvarion
