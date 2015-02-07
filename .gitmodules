@@ -682,3 +682,6 @@
 [submodule "ZenPacks.fdeckert.myeventviews-(zenoss)/repo"]
 	path = ZenPacks.fdeckert.myeventviews-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.fdeckert.myeventviews
+[submodule "ZenPacks.fdeckert.reports-(zenoss)/repo"]
+	path = ZenPacks.fdeckert.reports-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.fdeckert.reports
