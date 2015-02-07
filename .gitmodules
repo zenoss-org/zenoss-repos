@@ -1192,3 +1192,6 @@
 [submodule "ZenPacks.community.UbiquitiWireless-(aalejandro)/repo"]
 	path = ZenPacks.community.UbiquitiWireless-(aalejandro)/repo
 	url = https://github.com/aalejandro/ZenPacks.community.UbiquitiWireless
+[submodule "ZenPacks.community.SonicWALL-(crouthamela)/repo"]
+	path = ZenPacks.community.SonicWALL-(crouthamela)/repo
+	url = https://github.com/crouthamela/ZenPacks.community.SonicWALL
