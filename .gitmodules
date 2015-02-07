@@ -1306,3 +1306,6 @@
 [submodule "ZenPacks.example.CustomOverview-(cluther)/repo"]
 	path = ZenPacks.example.CustomOverview-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.example.CustomOverview
+[submodule "ZenPacks.Nelop.SecurityOnion-(nelopsystems)/repo"]
+	path = ZenPacks.Nelop.SecurityOnion-(nelopsystems)/repo
+	url = https://github.com/nelopsystems/ZenPacks.Nelop.SecurityOnion
