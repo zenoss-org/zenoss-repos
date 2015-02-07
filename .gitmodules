@@ -583,3 +583,6 @@
 [submodule "ZenPacks.AndreaConsadori.ASSP-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.ASSP-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.ASSP
+[submodule "ZenPacks.Imas.BlueCoat-(nyeates)/repo"]
+	path = ZenPacks.Imas.BlueCoat-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Imas.BlueCoat
