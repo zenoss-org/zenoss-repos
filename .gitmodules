@@ -178,3 +178,6 @@
 [submodule "ZenPacks.community.SMISMon-(epuzanov)/repo"]
 	path = ZenPacks.community.SMISMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.SMISMon
+[submodule "ZenPacks.community.libvirt-(zenoss)/repo"]
+	path = ZenPacks.community.libvirt-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.libvirt
