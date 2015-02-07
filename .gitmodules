@@ -379,3 +379,6 @@
 [submodule "ZenPacks.puzzle.VMReportXen-(zenoss)/repo"]
 	path = ZenPacks.puzzle.VMReportXen-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.puzzle.VMReportXen
+[submodule "ZenPacks.vaibhav.brocadeswitches-(zenoss)/repo"]
+	path = ZenPacks.vaibhav.brocadeswitches-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.vaibhav.brocadeswitches
