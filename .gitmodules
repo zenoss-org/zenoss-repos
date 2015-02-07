@@ -388,3 +388,6 @@
 [submodule "ZenPacks.AndreaConsadori.Exchange2007WMI-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Exchange2007WMI-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Exchange2007WMI
+[submodule "ZenPacks.AndreaConsadori.Funkwerk-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Funkwerk-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Funkwerk
