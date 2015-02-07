@@ -172,3 +172,6 @@
 [submodule "ZenPacks.skills1st.MenuExamples-(jcurry)/repo"]
 	path = ZenPacks.skills1st.MenuExamples-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.MenuExamples
+[submodule "ZenPacks.zenoss.oVirt-(zenoss)/repo"]
+	path = ZenPacks.zenoss.oVirt-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.oVirt
