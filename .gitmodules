@@ -1462,3 +1462,6 @@
 [submodule "ZenPacks.ssv.InstalledSoftwareReport-(sergevs)/repo"]
 	path = ZenPacks.ssv.InstalledSoftwareReport-(sergevs)/repo
 	url = https://github.com/sergevs/ZenPacks.ssv.InstalledSoftwareReport
+[submodule "ZenPacks.community.zenSiebelCRM-(j053ph4)/repo"]
+	path = ZenPacks.community.zenSiebelCRM-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenSiebelCRM
