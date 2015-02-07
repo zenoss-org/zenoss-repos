@@ -760,3 +760,6 @@
 [submodule "ZenPacks.Imas.BlueCoat-(zenoss)/repo"]
 	path = ZenPacks.Imas.BlueCoat-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Imas.BlueCoat
+[submodule "ZenPacks.Imas.SmsFunctions-(zenoss)/repo"]
+	path = ZenPacks.Imas.SmsFunctions-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Imas.SmsFunctions
