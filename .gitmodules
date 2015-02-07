@@ -607,3 +607,6 @@
 [submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring-(nyeates)/repo"]
 	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.OndrejJakubcik.OracleHwMonitoring
+[submodule "ZenPacks.AndreaConsadori.AlliedTelsys-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.AlliedTelsys-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.AlliedTelsys
