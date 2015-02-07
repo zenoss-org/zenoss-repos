@@ -412,3 +412,6 @@
 [submodule "ZenPacks.Jcolon.NortelMibs-(zenoss)/repo"]
 	path = ZenPacks.Jcolon.NortelMibs-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Jcolon.NortelMibs
+[submodule "ZenPacks.Jcolon.NortelPassport-(zenoss)/repo"]
+	path = ZenPacks.Jcolon.NortelPassport-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Jcolon.NortelPassport
