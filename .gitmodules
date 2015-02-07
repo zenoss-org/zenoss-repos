@@ -976,3 +976,6 @@
 [submodule "ZenPacks.HP.Proliant.MIBs-(nyeates)/repo"]
 	path = ZenPacks.HP.Proliant.MIBs-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.HP.Proliant.MIBs
+[submodule "ZenPacks.community.WMIPerf_Exchange2003-(zenoss)/repo"]
+	path = ZenPacks.community.WMIPerf_Exchange2003-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.WMIPerf_Exchange2003
