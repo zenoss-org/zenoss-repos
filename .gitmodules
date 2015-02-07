@@ -757,3 +757,6 @@
 [submodule "ZenPacks.Firestar.CiscoASA-(zenoss)/repo"]
 	path = ZenPacks.Firestar.CiscoASA-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Firestar.CiscoASA
+[submodule "ZenPacks.Imas.BlueCoat-(zenoss)/repo"]
+	path = ZenPacks.Imas.BlueCoat-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Imas.BlueCoat
