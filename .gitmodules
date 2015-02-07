@@ -283,3 +283,6 @@
 [submodule "ZenPacks.zenoss.Notifications-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Notifications-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Notifications
+[submodule "ZenPacks.Rackspace.LinuxMonitor-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.LinuxMonitor-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.LinuxMonitor
