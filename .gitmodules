@@ -880,3 +880,6 @@
 [submodule "ZenPacks.community.Stingray-(joewarrenmeeks)/repo"]
 	path = ZenPacks.community.Stingray-(joewarrenmeeks)/repo
 	url = https://github.com/joewarrenmeeks/ZenPacks.community.Stingray
+[submodule "ZenPacks.community.Fujitsu-(JosefJezek)/repo"]
+	path = ZenPacks.community.Fujitsu-(JosefJezek)/repo
+	url = https://github.com/JosefJezek/ZenPacks.community.Fujitsu
