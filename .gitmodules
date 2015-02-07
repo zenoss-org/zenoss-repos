@@ -61,3 +61,6 @@
 [submodule "ZenPacks.zenoss.OpenStackInfrastructure-(zenoss)/repo"]
 	path = ZenPacks.zenoss.OpenStackInfrastructure-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.OpenStackInfrastructure
+[submodule "ZenPacks.community.DellMon-(epuzanov)/repo"]
+	path = ZenPacks.community.DellMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.DellMon
