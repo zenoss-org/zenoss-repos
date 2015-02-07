@@ -346,3 +346,6 @@
 [submodule "ZenPacks.AndreaConsadori.Huawei-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Huawei-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Huawei
+[submodule "ZenPacks.AndreaConsadori.Motorola-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Motorola-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Motorola
