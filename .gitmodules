@@ -139,3 +139,6 @@
 [submodule "ZenPack.synthetictransactions-(sstormes)/repo"]
 	path = ZenPack.synthetictransactions-(sstormes)/repo
 	url = https://github.com/sstormes/ZenPack.synthetictransactions
+[submodule "ZenPacks.community.zenJavaApp-(j053ph4)/repo"]
+	path = ZenPacks.community.zenJavaApp-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenJavaApp
