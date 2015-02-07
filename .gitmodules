@@ -595,3 +595,6 @@
 [submodule "ZenPacks.Jcolon.NortelPassport-(nyeates)/repo"]
 	path = ZenPacks.Jcolon.NortelPassport-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Jcolon.NortelPassport
+[submodule "ZenPacks.LearningObjects.PostgresqlMonitor-(nyeates)/repo"]
+	path = ZenPacks.LearningObjects.PostgresqlMonitor-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.LearningObjects.PostgresqlMonitor
