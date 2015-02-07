@@ -307,3 +307,6 @@
 [submodule "ZenPacks.Ironport.PerformanceGraphs-(nyeates)/repo"]
 	path = ZenPacks.Ironport.PerformanceGraphs-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Ironport.PerformanceGraphs
+[submodule "ZenPacks.Iwillfearnoevil.Powernet7930-(nyeates)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Powernet7930-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Powernet7930
