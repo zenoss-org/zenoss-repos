@@ -1213,3 +1213,6 @@
 [submodule "ZenPacks.community.FreeRADIUS-(crouthamela)/repo"]
 	path = ZenPacks.community.FreeRADIUS-(crouthamela)/repo
 	url = https://github.com/crouthamela/ZenPacks.community.FreeRADIUS
+[submodule "ZenPacks.community.zenTerracotta-(j053ph4)/repo"]
+	path = ZenPacks.community.zenTerracotta-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenTerracotta
