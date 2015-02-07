@@ -892,3 +892,6 @@
 [submodule "ZenPacks.ndgov.IBMsvc-(zenchild)/repo"]
 	path = ZenPacks.ndgov.IBMsvc-(zenchild)/repo
 	url = https://github.com/zenchild/ZenPacks.ndgov.IBMsvc
+[submodule "ZenPacks.ShaneScott.QoS-(Hackman238)/repo"]
+	path = ZenPacks.ShaneScott.QoS-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.ShaneScott.QoS
