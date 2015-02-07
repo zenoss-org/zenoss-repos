@@ -166,3 +166,6 @@
 [submodule "ZenPacks.zenoss.HBase-(zenoss)/repo"]
 	path = ZenPacks.zenoss.HBase-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.HBase
+[submodule "ZenPacks.zenoss.OpenStackSwift-(zenoss)/repo"]
+	path = ZenPacks.zenoss.OpenStackSwift-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.OpenStackSwift
