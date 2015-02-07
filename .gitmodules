@@ -478,3 +478,6 @@
 [submodule "ZenPacks.community.MsmqMonitor-(zenoss)/repo"]
 	path = ZenPacks.community.MsmqMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.MsmqMonitor
+[submodule "ZenPacks.community.MySQLSSH-(zenoss)/repo"]
+	path = ZenPacks.community.MySQLSSH-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.MySQLSSH
