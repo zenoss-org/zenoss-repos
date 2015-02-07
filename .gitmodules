@@ -385,3 +385,6 @@
 [submodule "ZenPacks.vmware.VirtualMachines-(zenoss)/repo"]
 	path = ZenPacks.vmware.VirtualMachines-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.vmware.VirtualMachines
+[submodule "ZenPacks.AndreaConsadori.Exchange2007WMI-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Exchange2007WMI-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Exchange2007WMI
