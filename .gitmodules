@@ -301,3 +301,6 @@
 [submodule "ZenPacks.community.Ibmbladecenter-(rebelinux)/repo"]
 	path = ZenPacks.community.Ibmbladecenter-(rebelinux)/repo
 	url = https://github.com/rebelinux/ZenPacks.community.Ibmbladecenter
+[submodule "ZenPacks.Imas.SmsFunctions-(nyeates)/repo"]
+	path = ZenPacks.Imas.SmsFunctions-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Imas.SmsFunctions
