@@ -250,3 +250,6 @@
 [submodule "ZenPacks.nozen.HPUXMon-(zenoss)/repo"]
 	path = ZenPacks.nozen.HPUXMon-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.nozen.HPUXMon
+[submodule "ZenPacks.community.HPEVAMon-(epuzanov)/repo"]
+	path = ZenPacks.community.HPEVAMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.HPEVAMon
