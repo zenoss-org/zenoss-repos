@@ -610,3 +610,6 @@
 [submodule "ZenPacks.AndreaConsadori.AlliedTelsys-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.AlliedTelsys-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.AlliedTelsys
+[submodule "ZenPacks.AndreaConsadori.Aruba-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Aruba-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Aruba
