@@ -370,3 +370,6 @@
 [submodule "ZenPacks.ipSLA.SLADevice-(zenoss)/repo"]
 	path = ZenPacks.ipSLA.SLADevice-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.ipSLA.SLADevice
+[submodule "ZenPacks.nerenther.XeroxPageCounts-(zenoss)/repo"]
+	path = ZenPacks.nerenther.XeroxPageCounts-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.nerenther.XeroxPageCounts
