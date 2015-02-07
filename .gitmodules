@@ -1294,3 +1294,6 @@
 [submodule "ZenPacks.community.AvailabilityReportPerCollection-(jcurry)/repo"]
 	path = ZenPacks.community.AvailabilityReportPerCollection-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.community.AvailabilityReportPerCollection
+[submodule "ZenPacks.Rackspace.BTI7200-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.BTI7200-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.BTI7200
