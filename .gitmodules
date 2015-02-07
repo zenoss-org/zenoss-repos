@@ -193,3 +193,6 @@
 [submodule "ZenPacks.community.NginxStatus-(nickanderson)/repo"]
 	path = ZenPacks.community.NginxStatus-(nickanderson)/repo
 	url = https://github.com/nickanderson/ZenPacks.community.NginxStatus
+[submodule "ZenPacks.community.zenHttpComponent-(j053ph4)/repo"]
+	path = ZenPacks.community.zenHttpComponent-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenHttpComponent
