@@ -268,3 +268,6 @@
 [submodule "ZenPacks.dnalley.VMwareESXi-(zenoss)/repo"]
 	path = ZenPacks.dnalley.VMwareESXi-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.dnalley.VMwareESXi
+[submodule "ZenPacks.chudler.xmppBot-(zenoss)/repo"]
+	path = ZenPacks.chudler.xmppBot-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.chudler.xmppBot
