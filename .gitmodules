@@ -1138,3 +1138,6 @@
 [submodule "ZenPacks.community.ZopeMonitor-(simplesconsultoria)/repo"]
 	path = ZenPacks.community.ZopeMonitor-(simplesconsultoria)/repo
 	url = https://github.com/simplesconsultoria/ZenPacks.community.ZopeMonitor
+[submodule "ZenPacks.Rackspace.APC-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.APC-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.APC
