@@ -1027,3 +1027,6 @@
 [submodule "ZenPacks.community.Docker-(ssvsergeyev)/repo"]
 	path = ZenPacks.community.Docker-(ssvsergeyev)/repo
 	url = https://github.com/ssvsergeyev/ZenPacks.community.Docker
+[submodule "ZenPacks.BCN.Ubiquiti-(gobcn)/repo"]
+	path = ZenPacks.BCN.Ubiquiti-(gobcn)/repo
+	url = https://github.com/gobcn/ZenPacks.BCN.Ubiquiti
