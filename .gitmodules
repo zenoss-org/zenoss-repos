@@ -211,3 +211,6 @@
 [submodule "ZenPacks.Nagios.CheckPing-(zenoss)/repo"]
 	path = ZenPacks.Nagios.CheckPing-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nagios.CheckPing
+[submodule "ZenPacks.community.CelerraFileSystem-(zenoss)/repo"]
+	path = ZenPacks.community.CelerraFileSystem-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.CelerraFileSystem
