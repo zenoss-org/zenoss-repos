@@ -1165,3 +1165,6 @@
 [submodule "ZenPacks.zenoss.WBEM-(zenoss)/repo"]
 	path = ZenPacks.zenoss.WBEM-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.WBEM
+[submodule "ZenPacks.community.Synology-(JosefJezek)/repo"]
+	path = ZenPacks.community.Synology-(JosefJezek)/repo
+	url = https://github.com/JosefJezek/ZenPacks.community.Synology
