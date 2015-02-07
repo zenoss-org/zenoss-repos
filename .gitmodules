@@ -1072,3 +1072,6 @@
 [submodule "ZenPacks.Rackspace.Neighbors-(Hackman238)/repo"]
 	path = ZenPacks.Rackspace.Neighbors-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.Rackspace.Neighbors
+[submodule "ZenPacks.community.IOStat-(aipai)/repo"]
+	path = ZenPacks.community.IOStat-(aipai)/repo
+	url = https://github.com/aipai/ZenPacks.community.IOStat
