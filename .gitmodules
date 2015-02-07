@@ -973,3 +973,6 @@
 [submodule "ZenPacks.DrD_Studios.BlueArc-(nyeates)/repo"]
 	path = ZenPacks.DrD_Studios.BlueArc-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.DrD_Studios.BlueArc
+[submodule "ZenPacks.HP.Proliant.MIBs-(nyeates)/repo"]
+	path = ZenPacks.HP.Proliant.MIBs-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.HP.Proliant.MIBs
