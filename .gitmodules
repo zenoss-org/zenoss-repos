@@ -58,3 +58,6 @@
 [submodule "ZenPacks.community.RDBMS-(epuzanov)/repo"]
 	path = ZenPacks.community.RDBMS-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.RDBMS
+[submodule "ZenPacks.zenoss.OpenStackInfrastructure-(zenoss)/repo"]
+	path = ZenPacks.zenoss.OpenStackInfrastructure-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.OpenStackInfrastructure
