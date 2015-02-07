@@ -1402,3 +1402,6 @@
 [submodule "ZenPacks.ZenSystems.ApcUps-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.ApcUps-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps
+[submodule "ZenPacks.community.zenNrpeComponent-(j053ph4)/repo"]
+	path = ZenPacks.community.zenNrpeComponent-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenNrpeComponent
