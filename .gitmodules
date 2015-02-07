@@ -325,3 +325,6 @@
 [submodule "ZenPacks.Opengear.MIBs-(nyeates)/repo"]
 	path = ZenPacks.Opengear.MIBs-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Opengear.MIBs
+[submodule "ZenPacks.chudler.GoogleAppEngine-(nyeates)/repo"]
+	path = ZenPacks.chudler.GoogleAppEngine-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.chudler.GoogleAppEngine
