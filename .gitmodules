@@ -889,3 +889,6 @@
 [submodule "ZenPacks.community.CIMMon-(epuzanov)/repo"]
 	path = ZenPacks.community.CIMMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.CIMMon
+[submodule "ZenPacks.ndgov.IBMsvc-(zenchild)/repo"]
+	path = ZenPacks.ndgov.IBMsvc-(zenchild)/repo
+	url = https://github.com/zenchild/ZenPacks.ndgov.IBMsvc
