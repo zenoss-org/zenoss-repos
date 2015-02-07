@@ -877,3 +877,6 @@
 [submodule "ZenPacks.zenoss.Zentrospect-(cluther)/repo"]
 	path = ZenPacks.zenoss.Zentrospect-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.zenoss.Zentrospect
+[submodule "ZenPacks.community.Stingray-(joewarrenmeeks)/repo"]
+	path = ZenPacks.community.Stingray-(joewarrenmeeks)/repo
+	url = https://github.com/joewarrenmeeks/ZenPacks.community.Stingray
