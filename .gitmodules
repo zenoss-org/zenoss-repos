@@ -838,3 +838,6 @@
 [submodule "ZenPacks.community.IBMSystemxIMM-(zenoss)/repo"]
 	path = ZenPacks.community.IBMSystemxIMM-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.IBMSystemxIMM
+[submodule "ZenPacks.community.InterfaceGraphs-(zenoss)/repo"]
+	path = ZenPacks.community.InterfaceGraphs-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.InterfaceGraphs
