@@ -1231,3 +1231,6 @@
 [submodule "ZenPacks.community.LinuxVersion-(JosefJezek)/repo"]
 	path = ZenPacks.community.LinuxVersion-(JosefJezek)/repo
 	url = https://github.com/JosefJezek/ZenPacks.community.LinuxVersion
+[submodule "ZenPacks.CS.NetApp-(htolic)/repo"]
+	path = ZenPacks.CS.NetApp-(htolic)/repo
+	url = https://github.com/htolic/ZenPacks.CS.NetApp
