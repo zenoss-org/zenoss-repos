@@ -643,3 +643,6 @@
 [submodule "ZenPacks.BlakeDrager.Bridgewave-(nyeates)/repo"]
 	path = ZenPacks.BlakeDrager.Bridgewave-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.BlakeDrager.Bridgewave
+[submodule "ZenPacks.BlakeDrager.fping-(nyeates)/repo"]
+	path = ZenPacks.BlakeDrager.fping-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.BlakeDrager.fping
