@@ -1177,3 +1177,6 @@
 [submodule "ZenPacks.zenoss.OpenStack-(zenoss)/repo"]
 	path = ZenPacks.zenoss.OpenStack-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.OpenStack
+[submodule "ZenPacks.zenoss.Docker-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Docker-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Docker
