@@ -1015,3 +1015,6 @@
 [submodule "ZenPacks.ZenSystems.DellUps-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.DellUps-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.DellUps
+[submodule "ZenPacks.TwoNMS.Rancid-(mwallraf)/repo"]
+	path = ZenPacks.TwoNMS.Rancid-(mwallraf)/repo
+	url = https://github.com/mwallraf/ZenPacks.TwoNMS.Rancid
