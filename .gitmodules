@@ -424,3 +424,6 @@
 [submodule "ZenPacks.Opengear.MIBs-(zenoss)/repo"]
 	path = ZenPacks.Opengear.MIBs-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Opengear.MIBs
+[submodule "ZenPacks.PlixerInternational.Scrutinizer-(zenoss)/repo"]
+	path = ZenPacks.PlixerInternational.Scrutinizer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.PlixerInternational.Scrutinizer
