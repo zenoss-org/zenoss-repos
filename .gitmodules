@@ -472,3 +472,6 @@
 [submodule "ZenPacks.community.JuniperPerformance-(zenoss)/repo"]
 	path = ZenPacks.community.JuniperPerformance-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.JuniperPerformance
+[submodule "ZenPacks.community.LinuxMonitorAddOn-(zenoss)/repo"]
+	path = ZenPacks.community.LinuxMonitorAddOn-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.LinuxMonitorAddOn
