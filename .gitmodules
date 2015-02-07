@@ -88,3 +88,6 @@
 [submodule "ZenPacks.zenoss.RabbitMQ-(zenoss)/repo"]
 	path = ZenPacks.zenoss.RabbitMQ-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.RabbitMQ
+[submodule "ZenPacks.zenoss.AWS-(zenoss)/repo"]
+	path = ZenPacks.zenoss.AWS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.AWS
