@@ -625,3 +625,6 @@
 [submodule "ZenPacks.AndreaConsadori.Iomega-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Iomega-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Iomega
+[submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.LenovoRDThinkServer
