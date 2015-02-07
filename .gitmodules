@@ -1300,3 +1300,6 @@
 [submodule "ZenPacks.community.ActionTec-(blunck2)/repo"]
 	path = ZenPacks.community.ActionTec-(blunck2)/repo
 	url = https://github.com/blunck2/ZenPacks.community.ActionTec
+[submodule "ZenPacks.zenoss.RaphaelJS-(zenoss)/repo"]
+	path = ZenPacks.zenoss.RaphaelJS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.RaphaelJS
