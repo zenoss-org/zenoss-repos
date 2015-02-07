@@ -1198,3 +1198,6 @@
 [submodule "ZenPacks.boundary.EventAdapter-(boundary)/repo"]
 	path = ZenPacks.boundary.EventAdapter-(boundary)/repo
 	url = https://github.com/boundary/ZenPacks.boundary.EventAdapter
+[submodule "ZenPacks.EventEnrichment.Connector-(EventEnrichment)/repo"]
+	path = ZenPacks.EventEnrichment.Connector-(EventEnrichment)/repo
+	url = https://github.com/EventEnrichment/ZenPacks.EventEnrichment.Connector
