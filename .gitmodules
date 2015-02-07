@@ -1102,3 +1102,6 @@
 [submodule "ZenPacks.example.Portlet-(ssvsergeyev)/repo"]
 	path = ZenPacks.example.Portlet-(ssvsergeyev)/repo
 	url = https://github.com/ssvsergeyev/ZenPacks.example.Portlet
+[submodule "ZenPacks.ndgov.keepalived-(itd-nd-gov)/repo"]
+	path = ZenPacks.ndgov.keepalived-(itd-nd-gov)/repo
+	url = https://github.com/itd-nd-gov/ZenPacks.ndgov.keepalived
