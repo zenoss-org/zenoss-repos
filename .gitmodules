@@ -1018,3 +1018,6 @@
 [submodule "ZenPacks.TwoNMS.Rancid-(mwallraf)/repo"]
 	path = ZenPacks.TwoNMS.Rancid-(mwallraf)/repo
 	url = https://github.com/mwallraf/ZenPacks.TwoNMS.Rancid
+[submodule "ZenPacks.community.InventoryReports-(JosefJezek)/repo"]
+	path = ZenPacks.community.InventoryReports-(JosefJezek)/repo
+	url = https://github.com/JosefJezek/ZenPacks.community.InventoryReports
