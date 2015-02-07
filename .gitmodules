@@ -931,3 +931,6 @@
 [submodule "ZenPacks.PBnJSolutions.Barracuda.Watcher-(zenoss)/repo"]
 	path = ZenPacks.PBnJSolutions.Barracuda.Watcher-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.PBnJSolutions.Barracuda.Watcher
+[submodule "ZenPacks.community.EventGraph.BySeverity-(zenoss)/repo"]
+	path = ZenPacks.community.EventGraph.BySeverity-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.EventGraph.BySeverity
