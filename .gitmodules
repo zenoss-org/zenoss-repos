@@ -118,3 +118,6 @@
 [submodule "ZenPack.community.Citrix-(prg3)/repo"]
 	path = ZenPack.community.Citrix-(prg3)/repo
 	url = https://github.com/prg3/ZenPack.community.Citrix
+[submodule "zenpack.aquinn.elasticsearch-(austinhquinn)/repo"]
+	path = zenpack.aquinn.elasticsearch-(austinhquinn)/repo
+	url = https://github.com/austinhquinn/zenpack.aquinn.elasticsearch
