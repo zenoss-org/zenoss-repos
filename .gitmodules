@@ -352,3 +352,6 @@
 [submodule "ZenPacks.AndreaConsadori.Pfsense-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Pfsense-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Pfsense
+[submodule "ZenPacks.AndreaConsadori.UbiquitiNanostation-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.UbiquitiNanostation-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.UbiquitiNanostation
