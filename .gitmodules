@@ -64,3 +64,6 @@
 [submodule "ZenPacks.community.DellMon-(epuzanov)/repo"]
 	path = ZenPacks.community.DellMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.DellMon
+[submodule "ZenPacks.community.deviceAdvDetail-(epuzanov)/repo"]
+	path = ZenPacks.community.deviceAdvDetail-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.deviceAdvDetail
