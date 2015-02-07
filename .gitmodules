@@ -859,3 +859,6 @@
 [submodule "ZenPacks.community.RangeThreshold-(zenoss)/repo"]
 	path = ZenPacks.community.RangeThreshold-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.RangeThreshold
+[submodule "ZenPacks.community.SquidMon-(zenoss)/repo"]
+	path = ZenPacks.community.SquidMon-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.SquidMon
