@@ -559,3 +559,6 @@
 [submodule "ZenPacks.community.IBMMon-(epuzanov)/repo"]
 	path = ZenPacks.community.IBMMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.IBMMon
+[submodule "ZenPacks.community.NWMon-(epuzanov)/repo"]
+	path = ZenPacks.community.NWMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.NWMon
