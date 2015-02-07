@@ -1222,3 +1222,6 @@
 [submodule "ZenPacks.community.CIMHardwareMon-(epuzanov)/repo"]
 	path = ZenPacks.community.CIMHardwareMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.CIMHardwareMon
+[submodule "ZenPacks.community.RabbitMQ-(g-k)/repo"]
+	path = ZenPacks.community.RabbitMQ-(g-k)/repo
+	url = https://github.com/g-k/ZenPacks.community.RabbitMQ
