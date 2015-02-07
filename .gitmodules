@@ -1009,3 +1009,6 @@
 [submodule "ZenPacks.community.Netbotz_RackBotz-(zenoss)/repo"]
 	path = ZenPacks.community.Netbotz_RackBotz-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Netbotz_RackBotz
+[submodule "ZenPacks.ZenSystems.ApcAts-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.ApcAts-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcAts
