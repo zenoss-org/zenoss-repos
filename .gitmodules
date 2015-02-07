@@ -1471,3 +1471,6 @@
 [submodule "ZenPacks.community.zenIbmMQ-(j053ph4)/repo"]
 	path = ZenPacks.community.zenIbmMQ-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenIbmMQ
+[submodule "ZenPacks.community.zenTerracottaClient-(j053ph4)/repo"]
+	path = ZenPacks.community.zenTerracottaClient-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenTerracottaClient
