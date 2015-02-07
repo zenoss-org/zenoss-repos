@@ -1210,3 +1210,6 @@
 [submodule "ZenPacks.EE.HelloWorld-(EventEnrichment)/repo"]
 	path = ZenPacks.EE.HelloWorld-(EventEnrichment)/repo
 	url = https://github.com/EventEnrichment/ZenPacks.EE.HelloWorld
+[submodule "ZenPacks.community.FreeRADIUS-(crouthamela)/repo"]
+	path = ZenPacks.community.FreeRADIUS-(crouthamela)/repo
+	url = https://github.com/crouthamela/ZenPacks.community.FreeRADIUS
