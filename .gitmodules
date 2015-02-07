@@ -316,3 +316,6 @@
 [submodule "ZenPacks.Lais.Asterisk-(nyeates)/repo"]
 	path = ZenPacks.Lais.Asterisk-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Lais.Asterisk
+[submodule "ZenPacks.Nova.UCDFileSystemMap-(nyeates)/repo"]
+	path = ZenPacks.Nova.UCDFileSystemMap-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nova.UCDFileSystemMap
