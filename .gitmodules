@@ -505,3 +505,6 @@
 [submodule "ZenPacks.community.Splunk-(zenoss)/repo"]
 	path = ZenPacks.community.Splunk-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Splunk
+[submodule "ZenPacks.AndreaConsadori.Asterisk16-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Asterisk16-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Asterisk16
