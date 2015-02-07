@@ -1096,3 +1096,6 @@
 [submodule "ZenPacks.community.ResponsiveUI-(vsergeyev)/repo"]
 	path = ZenPacks.community.ResponsiveUI-(vsergeyev)/repo
 	url = https://github.com/vsergeyev/ZenPacks.community.ResponsiveUI
+[submodule "ZenPacks.Devex.frontend-(Devex)/repo"]
+	path = ZenPacks.Devex.frontend-(Devex)/repo
+	url = https://github.com/Devex/ZenPacks.Devex.frontend
