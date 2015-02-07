@@ -733,3 +733,6 @@
 [submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.LenovoRDThinkServer
+[submodule "ZenPacks.AndreaConsadori.Microtick-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Microtick-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Microtick
