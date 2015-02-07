@@ -151,3 +151,6 @@
 [submodule "ZenPacks.community.f5-(ZCA)/repo"]
 	path = ZenPacks.community.f5-(ZCA)/repo
 	url = https://github.com/ZCA/ZenPacks.community.f5
+[submodule "ZenPacks.ZenSystems.Juniper-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.Juniper-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.Juniper
