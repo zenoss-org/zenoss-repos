@@ -868,3 +868,6 @@
 [submodule "Zenoss.bhn.SolarisSSH-(srage)/repo"]
 	path = Zenoss.bhn.SolarisSSH-(srage)/repo
 	url = https://github.com/srage/Zenoss.bhn.SolarisSSH
+[submodule "ZenPacks.community.FlexLM-(sjthespian)/repo"]
+	path = ZenPacks.community.FlexLM-(sjthespian)/repo
+	url = https://github.com/sjthespian/ZenPacks.community.FlexLM
