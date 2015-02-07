@@ -1186,3 +1186,6 @@
 [submodule "ZenPacks.Merit.AdvaFSP3000R7-(kb8u)/repo"]
 	path = ZenPacks.Merit.AdvaFSP3000R7-(kb8u)/repo
 	url = https://github.com/kb8u/ZenPacks.Merit.AdvaFSP3000R7
+[submodule "ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd-(SteelHouseLabs)/repo"]
+	path = ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd
