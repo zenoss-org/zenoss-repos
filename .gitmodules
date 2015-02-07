@@ -901,3 +901,6 @@
 [submodule "ZenPacks.training.NetBotz-(cluther)/repo"]
 	path = ZenPacks.training.NetBotz-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.training.NetBotz
+[submodule "ZenPacks.JohnBeck.power.AP7841-(nyeates)/repo"]
+	path = ZenPacks.JohnBeck.power.AP7841-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.JohnBeck.power.AP7841
