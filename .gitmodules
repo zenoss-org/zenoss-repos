@@ -82,3 +82,6 @@
 [submodule "ZenPacks.community.SQLDataSource-(epuzanov)/repo"]
 	path = ZenPacks.community.SQLDataSource-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.SQLDataSource
+[submodule "ZenPacks.community.OracleMon-(epuzanov)/repo"]
+	path = ZenPacks.community.OracleMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.OracleMon
