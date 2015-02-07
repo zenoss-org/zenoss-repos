@@ -1066,3 +1066,6 @@
 [submodule "ZenPacks.community.Wunderground-(blunck2)/repo"]
 	path = ZenPacks.community.Wunderground-(blunck2)/repo
 	url = https://github.com/blunck2/ZenPacks.community.Wunderground
+[submodule "ZenPacks.Rackspace.Statelogchange-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.Statelogchange-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.Statelogchange
