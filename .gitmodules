@@ -589,3 +589,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Domain-(nyeates)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Domain-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Domain
+[submodule "ZenPacks.Iwillfearnoevil.Powernet9225-(nyeates)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Powernet9225-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Powernet9225
