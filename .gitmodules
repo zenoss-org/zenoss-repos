@@ -1162,3 +1162,6 @@
 [submodule "ZenPacks.community.gpfs-(bdeluca)/repo"]
 	path = ZenPacks.community.gpfs-(bdeluca)/repo
 	url = https://github.com/bdeluca/ZenPacks.community.gpfs
+[submodule "ZenPacks.zenoss.WBEM-(zenoss)/repo"]
+	path = ZenPacks.zenoss.WBEM-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.WBEM
