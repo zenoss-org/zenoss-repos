@@ -1075,3 +1075,6 @@
 [submodule "ZenPacks.community.IOStat-(aipai)/repo"]
 	path = ZenPacks.community.IOStat-(aipai)/repo
 	url = https://github.com/aipai/ZenPacks.community.IOStat
+[submodule "ZenPacks.zenoss.HPMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.HPMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.HPMonitor
