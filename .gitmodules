@@ -652,3 +652,6 @@
 [submodule "ZenPacks.Firestar.CiscoASA-(nyeates)/repo"]
 	path = ZenPacks.Firestar.CiscoASA-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Firestar.CiscoASA
+[submodule "ZenPacks.community.SunMibMonitor-(zenoss)/repo"]
+	path = ZenPacks.community.SunMibMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.SunMibMonitor
