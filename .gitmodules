@@ -376,3 +376,6 @@
 [submodule "ZenPacks.networking.HPProcurve-(zenoss)/repo"]
 	path = ZenPacks.networking.HPProcurve-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.networking.HPProcurve
+[submodule "ZenPacks.puzzle.VMReportXen-(zenoss)/repo"]
+	path = ZenPacks.puzzle.VMReportXen-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.puzzle.VMReportXen
