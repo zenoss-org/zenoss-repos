@@ -1000,3 +1000,6 @@
 [submodule "ZenPacks.Nova.Collector.Tool-(zenoss)/repo"]
 	path = ZenPacks.Nova.Collector.Tool-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nova.Collector.Tool
+[submodule "ZenPacks.Nova.Windows.SNMPPerfMonitor-(zenoss)/repo"]
+	path = ZenPacks.Nova.Windows.SNMPPerfMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Nova.Windows.SNMPPerfMonitor
