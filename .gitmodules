@@ -1360,3 +1360,6 @@
 [submodule "ZenPacks.zenoss.DeviceSearch-(zenoss)/repo"]
 	path = ZenPacks.zenoss.DeviceSearch-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.DeviceSearch
+[submodule "ZenPacks.zenoss.DigMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.DigMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.DigMonitor
