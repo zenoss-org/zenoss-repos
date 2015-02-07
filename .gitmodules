@@ -1048,3 +1048,6 @@
 [submodule "ZenPacks.example.EvaluatedCommandModeler-(cluther)/repo"]
 	path = ZenPacks.example.EvaluatedCommandModeler-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.example.EvaluatedCommandModeler
+[submodule "ZenPacks.community.WhatsDownPortlet-(Pobice)/repo"]
+	path = ZenPacks.community.WhatsDownPortlet-(Pobice)/repo
+	url = https://github.com/Pobice/ZenPacks.community.WhatsDownPortlet
