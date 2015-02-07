@@ -520,3 +520,6 @@
 [submodule "ZenPacks.ShaneScott.CPUCount-(zenoss)/repo"]
 	path = ZenPacks.ShaneScott.CPUCount-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.ShaneScott.CPUCount
+[submodule "ZenPacks.community.mib_browser-(jcurry)/repo"]
+	path = ZenPacks.community.mib_browser-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.community.mib_browser
