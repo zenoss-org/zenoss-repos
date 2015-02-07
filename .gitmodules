@@ -1288,3 +1288,6 @@
 [submodule "ZenPacks.community.CiscoWLC-(turingmachine)/repo"]
 	path = ZenPacks.community.CiscoWLC-(turingmachine)/repo
 	url = https://github.com/turingmachine/ZenPacks.community.CiscoWLC
+[submodule "ZenPacks.community.mibBrowser-(jcurry)/repo"]
+	path = ZenPacks.community.mibBrowser-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.community.mibBrowser
