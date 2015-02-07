@@ -574,3 +574,6 @@
 [submodule "ZenPacks.community.VMwareESXiMonitor-(vpl)/repo"]
 	path = ZenPacks.community.VMwareESXiMonitor-(vpl)/repo
 	url = https://github.com/vpl/ZenPacks.community.VMwareESXiMonitor
+[submodule "ZenPacks.community.DellEqualLogicMon-(ericenns)/repo"]
+	path = ZenPacks.community.DellEqualLogicMon-(ericenns)/repo
+	url = https://github.com/ericenns/ZenPacks.community.DellEqualLogicMon
