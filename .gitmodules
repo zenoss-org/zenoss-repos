@@ -1132,3 +1132,6 @@
 [submodule "ZenPacks.community.Supervisor-(g-k)/repo"]
 	path = ZenPacks.community.Supervisor-(g-k)/repo
 	url = https://github.com/g-k/ZenPacks.community.Supervisor
+[submodule "Zenpacks.zenoss.ZenJMX-(alienth)/repo"]
+	path = Zenpacks.zenoss.ZenJMX-(alienth)/repo
+	url = https://github.com/alienth/Zenpacks.zenoss.ZenJMX
