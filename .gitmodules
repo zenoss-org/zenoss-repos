@@ -328,3 +328,6 @@
 [submodule "ZenPacks.chudler.GoogleAppEngine-(nyeates)/repo"]
 	path = ZenPacks.chudler.GoogleAppEngine-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.chudler.GoogleAppEngine
+[submodule "ZenPacks.chudler.redis-(nyeates)/repo"]
+	path = ZenPacks.chudler.redis-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.chudler.redis
