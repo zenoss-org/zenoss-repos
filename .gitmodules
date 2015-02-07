@@ -40,3 +40,6 @@
 [submodule "API-PHP-(bensnyde)/repo"]
 	path = API-PHP-(bensnyde)/repo
 	url = https://github.com/bensnyde/php-zenoss-api
+[submodule "Script-Alert-PagerDuty-(zsprackett)/repo"]
+	path = Script-Alert-PagerDuty-(zsprackett)/repo
+	url = https://github.com/zsprackett/pagerduty_zenoss
