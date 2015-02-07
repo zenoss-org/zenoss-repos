@@ -406,3 +406,6 @@
 [submodule "ZenPacks.Hyper.virtualMachines-(zenoss)/repo"]
 	path = ZenPacks.Hyper.virtualMachines-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Hyper.virtualMachines
+[submodule "ZenPacks.Iwillfearnoevil.Domain-(zenoss)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Domain-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Domain
