@@ -223,3 +223,6 @@
 [submodule "ZenPacks.ShaneScott.DeviceSearch-(zenoss)/repo"]
 	path = ZenPacks.ShaneScott.DeviceSearch-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.ShaneScott.DeviceSearch
+[submodule "ZenPacks.community.Varnish3-(ZCA)/repo"]
+	path = ZenPacks.community.Varnish3-(ZCA)/repo
+	url = https://github.com/ZCA/ZenPacks.community.Varnish3
