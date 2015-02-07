@@ -1150,3 +1150,6 @@
 [submodule "ZenPacks.zenoss.IRCDMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.IRCDMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.IRCDMonitor
+[submodule "ZenPacks.zenoss.MSExchange-(zenoss)/repo"]
+	path = ZenPacks.zenoss.MSExchange-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.MSExchange
