@@ -970,3 +970,6 @@
 [submodule "ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(nyeates)/repo"]
 	path = ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.Windows.SNMPPerfMonitorSimple
+[submodule "ZenPacks.DrD_Studios.BlueArc-(nyeates)/repo"]
+	path = ZenPacks.DrD_Studios.BlueArc-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.DrD_Studios.BlueArc
