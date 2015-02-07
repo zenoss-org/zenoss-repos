@@ -820,3 +820,6 @@
 [submodule "ZenPacks.community.DellM1000e-(zenoss)/repo"]
 	path = ZenPacks.community.DellM1000e-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.DellM1000e
+[submodule "ZenPacks.community.DellSNMPTransforms-(zenoss)/repo"]
+	path = ZenPacks.community.DellSNMPTransforms-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.DellSNMPTransforms
