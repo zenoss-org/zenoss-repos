@@ -358,3 +358,6 @@
 [submodule "ZenPacks.Hyper.virtualMachines-(nyeates)/repo"]
 	path = ZenPacks.Hyper.virtualMachines-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Hyper.virtualMachines
+[submodule "ZenPacks.community.NortelMon-(rebelinux)/repo"]
+	path = ZenPacks.community.NortelMon-(rebelinux)/repo
+	url = https://github.com/rebelinux/ZenPacks.community.NortelMon
