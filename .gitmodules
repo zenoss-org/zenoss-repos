@@ -271,3 +271,6 @@
 [submodule "ZenPacks.chudler.xmppBot-(zenoss)/repo"]
 	path = ZenPacks.chudler.xmppBot-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.chudler.xmppBot
+[submodule "ZenPacks.PagerDuty.APINotification-(PagerDuty)/repo"]
+	path = ZenPacks.PagerDuty.APINotification-(PagerDuty)/repo
+	url = https://github.com/PagerDuty/ZenPacks.PagerDuty.APINotification
