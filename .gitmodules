@@ -163,3 +163,6 @@
 [submodule "ZenPacks.TwoNMS.PrinterMIB-(mwallraf)/repo"]
 	path = ZenPacks.TwoNMS.PrinterMIB-(mwallraf)/repo
 	url = https://github.com/mwallraf/ZenPacks.TwoNMS.PrinterMIB
+[submodule "ZenPacks.zenoss.HBase-(zenoss)/repo"]
+	path = ZenPacks.zenoss.HBase-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.HBase
