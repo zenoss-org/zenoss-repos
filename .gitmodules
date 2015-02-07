@@ -1228,3 +1228,6 @@
 [submodule "ZenPacks.zenoss.ZenAWS-(ukuzner)/repo"]
 	path = ZenPacks.zenoss.ZenAWS-(ukuzner)/repo
 	url = https://github.com/ukuzner/ZenPacks.zenoss.ZenAWS
+[submodule "ZenPacks.community.LinuxVersion-(JosefJezek)/repo"]
+	path = ZenPacks.community.LinuxVersion-(JosefJezek)/repo
+	url = https://github.com/JosefJezek/ZenPacks.community.LinuxVersion
