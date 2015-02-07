@@ -1111,3 +1111,6 @@
 [submodule "ZenPacks.cluther.Sandbox-(cluther)/repo"]
 	path = ZenPacks.cluther.Sandbox-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.cluther.Sandbox
+[submodule "ZenPacks.community.HPProCurve-(osu-sig)/repo"]
+	path = ZenPacks.community.HPProCurve-(osu-sig)/repo
+	url = https://github.com/osu-sig/ZenPacks.community.HPProCurve
