@@ -1039,3 +1039,6 @@
 [submodule "ZenPacks.community.Brocade-(j053ph4)/repo"]
 	path = ZenPacks.community.Brocade-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.Brocade
+[submodule "ZenPacks.community.Jenkins-(j053ph4)/repo"]
+	path = ZenPacks.community.Jenkins-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.Jenkins
