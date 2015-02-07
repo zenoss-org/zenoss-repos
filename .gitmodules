@@ -1492,3 +1492,6 @@
 [submodule "ZenPacks.example.NotificationContextProvider-(cluther)/repo"]
 	path = ZenPacks.example.NotificationContextProvider-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.example.NotificationContextProvider
+[submodule "ZenPacks.skills1st.LDAPMonitoring-(jcurry)/repo"]
+	path = ZenPacks.skills1st.LDAPMonitoring-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.LDAPMonitoring
