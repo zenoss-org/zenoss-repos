@@ -967,3 +967,6 @@
 [submodule "ZenPacks.Nova.Cisco.Mibs-(nyeates)/repo"]
 	path = ZenPacks.Nova.Cisco.Mibs-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.Cisco.Mibs
+[submodule "ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(nyeates)/repo"]
+	path = ZenPacks.Nova.Windows.SNMPPerfMonitorSimple-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nova.Windows.SNMPPerfMonitorSimple
