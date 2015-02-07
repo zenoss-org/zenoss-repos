@@ -883,3 +883,6 @@
 [submodule "ZenPacks.community.Fujitsu-(JosefJezek)/repo"]
 	path = ZenPacks.community.Fujitsu-(JosefJezek)/repo
 	url = https://github.com/JosefJezek/ZenPacks.community.Fujitsu
+[submodule "ZenPacks.community.OracleDBMon-(pmrpla)/repo"]
+	path = ZenPacks.community.OracleDBMon-(pmrpla)/repo
+	url = https://github.com/pmrpla/ZenPacks.community.OracleDBMon
