@@ -1261,3 +1261,6 @@
 [submodule "ZenPacks.community.NanThreshold-(SteelHouseLabs)/repo"]
 	path = ZenPacks.community.NanThreshold-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.community.NanThreshold
+[submodule "ZenPacks.zenoss.ApacheMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.ApacheMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.ApacheMonitor
