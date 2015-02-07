@@ -1114,3 +1114,6 @@
 [submodule "ZenPacks.community.HPProCurve-(osu-sig)/repo"]
 	path = ZenPacks.community.HPProCurve-(osu-sig)/repo
 	url = https://github.com/osu-sig/ZenPacks.community.HPProCurve
+[submodule "ZenPacks.andinod.KyoceraPrinter-(andinod)/repo"]
+	path = ZenPacks.andinod.KyoceraPrinter-(andinod)/repo
+	url = https://github.com/andinod/ZenPacks.andinod.KyoceraPrinter
