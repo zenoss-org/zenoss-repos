@@ -1078,3 +1078,6 @@
 [submodule "ZenPacks.zenoss.HPMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.HPMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.HPMonitor
+[submodule "ZenPacks.zenoss.HttpMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.HttpMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.HttpMonitor
