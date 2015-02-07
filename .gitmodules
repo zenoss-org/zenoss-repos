@@ -409,3 +409,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Domain-(zenoss)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Domain-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Domain
+[submodule "ZenPacks.Jcolon.NortelMibs-(zenoss)/repo"]
+	path = ZenPacks.Jcolon.NortelMibs-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Jcolon.NortelMibs
