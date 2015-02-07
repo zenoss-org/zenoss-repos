@@ -1090,3 +1090,6 @@
 [submodule "ZenPacks.zenoss.MSMQMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.MSMQMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.MSMQMonitor
+[submodule "ZenPacks.zenoss.MSSQLServer-(zenoss)/repo"]
+	path = ZenPacks.zenoss.MSSQLServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.MSSQLServer
