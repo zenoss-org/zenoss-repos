@@ -187,3 +187,6 @@
 [submodule "ZenPacks.community.PredictiveThreshold-(jcurry)/repo"]
 	path = ZenPacks.community.PredictiveThreshold-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.community.PredictiveThreshold
+[submodule "ZenPacks.atelepin.cbCiscoQOS-(atelepin)/repo"]
+	path = ZenPacks.atelepin.cbCiscoQOS-(atelepin)/repo
+	url = https://github.com/atelepin/ZenPacks.atelepin.cbCiscoQOS
