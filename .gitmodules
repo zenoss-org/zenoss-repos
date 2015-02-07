@@ -202,3 +202,6 @@
 [submodule "ZenPacks.zenoss.MySqlMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.MySqlMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.MySqlMonitor
+[submodule "ZenPacks.community.VMwareEsx-(zenoss)/repo"]
+	path = ZenPacks.community.VMwareEsx-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.VMwareEsx
