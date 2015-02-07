@@ -100,3 +100,6 @@
 [submodule "ZenPacks.community.NetApp-(zenoss)/repo"]
 	path = ZenPacks.community.NetApp-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.NetApp
+[submodule "ZenPacks.community.VMwareESXiMonitor-(ericenns)/repo"]
+	path = ZenPacks.community.VMwareESXiMonitor-(ericenns)/repo
+	url = https://github.com/ericenns/ZenPacks.community.VMwareESXiMonitor
