@@ -865,3 +865,6 @@
 [submodule "ZenPacks.community.SuSE-(zenoss)/repo"]
 	path = ZenPacks.community.SuSE-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.SuSE
+[submodule "Zenoss.bhn.SolarisSSH-(srage)/repo"]
+	path = Zenoss.bhn.SolarisSSH-(srage)/repo
+	url = https://github.com/srage/Zenoss.bhn.SolarisSSH
