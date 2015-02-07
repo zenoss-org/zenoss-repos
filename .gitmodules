@@ -121,3 +121,6 @@
 [submodule "zenpack.aquinn.elasticsearch-(austinhquinn)/repo"]
 	path = zenpack.aquinn.elasticsearch-(austinhquinn)/repo
 	url = https://github.com/austinhquinn/zenpack.aquinn.elasticsearch
+[submodule "ZenPacks.zenoss.CloudFoundry-(zenoss)/repo"]
+	path = ZenPacks.zenoss.CloudFoundry-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.CloudFoundry
