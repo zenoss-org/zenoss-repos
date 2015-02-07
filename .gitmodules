@@ -700,3 +700,6 @@
 [submodule "ZenPacks.sodonnell.TransformReport-(zenoss)/repo"]
 	path = ZenPacks.sodonnell.TransformReport-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.sodonnell.TransformReport
+[submodule "ZenPacks.sodonnell.VMReport-(zenoss)/repo"]
+	path = ZenPacks.sodonnell.VMReport-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.sodonnell.VMReport
