@@ -772,3 +772,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Powernet9225-(zenoss)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Powernet9225-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet9225
+[submodule "ZenPacks.LearningObjects.PostgresqlMonitor-(zenoss)/repo"]
+	path = ZenPacks.LearningObjects.PostgresqlMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.LearningObjects.PostgresqlMonitor
