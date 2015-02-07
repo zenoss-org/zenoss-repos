@@ -847,3 +847,6 @@
 [submodule "ZenPacks.community.MSSQL64Monitor-(zenoss)/repo"]
 	path = ZenPacks.community.MSSQL64Monitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.MSSQL64Monitor
+[submodule "ZenPacks.community.Mandriva-(zenoss)/repo"]
+	path = ZenPacks.community.Mandriva-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Mandriva
