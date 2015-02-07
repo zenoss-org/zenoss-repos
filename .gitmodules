@@ -397,3 +397,6 @@
 [submodule "ZenPacks.AndreaConsadori.Motorola-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Motorola-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Motorola
+[submodule "ZenPacks.AndreaConsadori.UbiquitiNanostation-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.UbiquitiNanostation-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.UbiquitiNanostation
