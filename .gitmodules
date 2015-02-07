@@ -985,3 +985,6 @@
 [submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.MSIAS_RadiusServer
+[submodule "ZenPacks.HP.Proliant.MIBs-(zenoss)/repo"]
+	path = ZenPacks.HP.Proliant.MIBs-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.HP.Proliant.MIBs
