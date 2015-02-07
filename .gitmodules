@@ -1495,3 +1495,6 @@
 [submodule "ZenPacks.skills1st.LDAPMonitoring-(jcurry)/repo"]
 	path = ZenPacks.skills1st.LDAPMonitoring-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.LDAPMonitoring
+[submodule "ZenPacks.zenoss.Neo4j-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Neo4j-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Neo4j
