@@ -469,3 +469,6 @@
 [submodule "ZenPacks.community.IBM3584Mon-(zenoss)/repo"]
 	path = ZenPacks.community.IBM3584Mon-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.IBM3584Mon
+[submodule "ZenPacks.community.JuniperPerformance-(zenoss)/repo"]
+	path = ZenPacks.community.JuniperPerformance-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.JuniperPerformance
