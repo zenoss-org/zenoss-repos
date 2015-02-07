@@ -1033,3 +1033,6 @@
 [submodule "ZenPacks.ssv.OrgModeler-(sergevs)/repo"]
 	path = ZenPacks.ssv.OrgModeler-(sergevs)/repo
 	url = https://github.com/sergevs/ZenPacks.ssv.OrgModeler
+[submodule "ZenPacks.ssv.SubagentShell-(sergevs)/repo"]
+	path = ZenPacks.ssv.SubagentShell-(sergevs)/repo
+	url = https://github.com/sergevs/ZenPacks.ssv.SubagentShell
