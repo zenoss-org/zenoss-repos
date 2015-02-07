@@ -160,3 +160,6 @@
 [submodule "ZenPacks.skills1st.TroubleTicket-(jcurry)/repo"]
 	path = ZenPacks.skills1st.TroubleTicket-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.TroubleTicket
+[submodule "ZenPacks.TwoNMS.PrinterMIB-(mwallraf)/repo"]
+	path = ZenPacks.TwoNMS.PrinterMIB-(mwallraf)/repo
+	url = https://github.com/mwallraf/ZenPacks.TwoNMS.PrinterMIB
