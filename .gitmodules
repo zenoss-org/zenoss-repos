@@ -1477,3 +1477,6 @@
 [submodule "ZenPacks.community.zenTwillScriptComponent-(j053ph4)/repo"]
 	path = ZenPacks.community.zenTwillScriptComponent-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenTwillScriptComponent
+[submodule "ZenPacks.community.zenSplunkSearch-(j053ph4)/repo"]
+	path = ZenPacks.community.zenSplunkSearch-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenSplunkSearch
