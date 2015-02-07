@@ -67,3 +67,6 @@
 [submodule "ZenPacks.community.deviceAdvDetail-(epuzanov)/repo"]
 	path = ZenPacks.community.deviceAdvDetail-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.deviceAdvDetail
+[submodule "ZenPacks.chudler.redis-(zenoss)/repo"]
+	path = ZenPacks.chudler.redis-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.chudler.redis
