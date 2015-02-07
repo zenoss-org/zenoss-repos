@@ -55,3 +55,6 @@
 [submodule "ZenPack.community.MongoDB-(bcarpio)/repo"]
 	path = ZenPack.community.MongoDB-(bcarpio)/repo
 	url = https://github.com/bcarpio/ZenPack.community.MongoDB
+[submodule "ZenPacks.community.RDBMS-(epuzanov)/repo"]
+	path = ZenPacks.community.RDBMS-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.RDBMS
