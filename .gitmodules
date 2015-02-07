@@ -586,3 +586,6 @@
 [submodule "ZenPacks.Imas.BlueCoat-(nyeates)/repo"]
 	path = ZenPacks.Imas.BlueCoat-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Imas.BlueCoat
+[submodule "ZenPacks.Iwillfearnoevil.Domain-(nyeates)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Domain-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Domain
