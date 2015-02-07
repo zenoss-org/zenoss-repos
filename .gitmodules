@@ -4,3 +4,6 @@
 [submodule "Script-Alert-Growl-(iamseth)/repo"]
 	path = Script-Alert-Growl-(iamseth)/repo
 	url = https://github.com/iamseth/Zenoss-to-Growl
+[submodule "Script-Alert-Slack-(ssplatt)/repo"]
+	path = Script-Alert-Slack-(ssplatt)/repo
+	url = https://github.com/ssplatt/slack_webhook_scripts
