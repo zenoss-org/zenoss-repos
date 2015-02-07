@@ -1225,3 +1225,6 @@
 [submodule "ZenPacks.community.RabbitMQ-(g-k)/repo"]
 	path = ZenPacks.community.RabbitMQ-(g-k)/repo
 	url = https://github.com/g-k/ZenPacks.community.RabbitMQ
+[submodule "ZenPacks.zenoss.ZenAWS-(ukuzner)/repo"]
+	path = ZenPacks.zenoss.ZenAWS-(ukuzner)/repo
+	url = https://github.com/ukuzner/ZenPacks.zenoss.ZenAWS
