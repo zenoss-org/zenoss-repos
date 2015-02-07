@@ -1120,3 +1120,6 @@
 [submodule "ZenPacks.andinod.HPUXMonitor-(andinod)/repo"]
 	path = ZenPacks.andinod.HPUXMonitor-(andinod)/repo
 	url = https://github.com/andinod/ZenPacks.andinod.HPUXMonitor
+[submodule "ZenPacks.example.EventPlugins-(cluther)/repo"]
+	path = ZenPacks.example.EventPlugins-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.example.EventPlugins
