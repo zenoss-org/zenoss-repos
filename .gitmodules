@@ -1444,3 +1444,6 @@
 [submodule "ZenPacks.seclan.as400Comtek-(cscmvi)/repo"]
 	path = ZenPacks.seclan.as400Comtek-(cscmvi)/repo
 	url = https://github.com/cscmvi/ZenPacks.seclan.as400Comtek
+[submodule "ZenPacks.Secure24.Check_NRPE-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.Check_NRPE-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.Check_NRPE
