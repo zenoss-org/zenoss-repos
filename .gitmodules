@@ -751,3 +751,6 @@
 [submodule "ZenPacks.BlakeDrager.fping-(zenoss)/repo"]
 	path = ZenPacks.BlakeDrager.fping-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.BlakeDrager.fping
+[submodule "ZenPacks.DrD_Studios.BlueArc-(zenoss)/repo"]
+	path = ZenPacks.DrD_Studios.BlueArc-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.DrD_Studios.BlueArc
