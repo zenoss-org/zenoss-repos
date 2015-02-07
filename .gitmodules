@@ -697,3 +697,6 @@
 [submodule "ZenPacks.sodonnell.MACReport-(zenoss)/repo"]
 	path = ZenPacks.sodonnell.MACReport-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.sodonnell.MACReport
+[submodule "ZenPacks.sodonnell.TransformReport-(zenoss)/repo"]
+	path = ZenPacks.sodonnell.TransformReport-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.sodonnell.TransformReport
