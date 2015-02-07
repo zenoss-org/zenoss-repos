@@ -493,3 +493,6 @@
 [submodule "ZenPacks.community.OpenSolaris-(zenoss)/repo"]
 	path = ZenPacks.community.OpenSolaris-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.OpenSolaris
+[submodule "ZenPacks.community.Perfmon-(zenoss)/repo"]
+	path = ZenPacks.community.Perfmon-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Perfmon
