@@ -364,3 +364,6 @@
 [submodule "ZenPacks.community.Tru64-(zenoss)/repo"]
 	path = ZenPacks.community.Tru64-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Tru64
+[submodule "ZenPacks.community.WMIFilesMonitor-(zenoss)/repo"]
+	path = ZenPacks.community.WMIFilesMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.WMIFilesMonitor
