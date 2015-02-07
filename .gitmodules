@@ -1426,3 +1426,6 @@
 [submodule "ZenPacks.zenoss.OpenTsdbReporter-(zenoss)/repo"]
 	path = ZenPacks.zenoss.OpenTsdbReporter-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.OpenTsdbReporter
+[submodule "ZenPacks.zenoss.ZenossVirtualHostMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.ZenossVirtualHostMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.ZenossVirtualHostMonitor
