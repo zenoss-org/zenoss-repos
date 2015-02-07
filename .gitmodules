@@ -1504,3 +1504,6 @@
 [submodule "ZenPacks.NWN.WindowsDevModeler-(dougsyer)/repo"]
 	path = ZenPacks.NWN.WindowsDevModeler-(dougsyer)/repo
 	url = https://github.com/dougsyer/ZenPacks.NWN.WindowsDevModeler
+[submodule "ZenPacks.zenoss.Fortinet.FortiGate-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Fortinet.FortiGate-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Fortinet.FortiGate
