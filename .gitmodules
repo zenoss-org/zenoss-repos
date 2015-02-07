@@ -718,3 +718,6 @@
 [submodule "ZenPacks.AndreaConsadori.Alvarion-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Alvarion-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Alvarion
+[submodule "ZenPacks.AndreaConsadori.Aruba-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Aruba-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Aruba
