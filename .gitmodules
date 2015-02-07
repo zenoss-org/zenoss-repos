@@ -229,3 +229,6 @@
 [submodule "ZenPacks.community.WMIDataSource-(epuzanov)/repo"]
 	path = ZenPacks.community.WMIDataSource-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.WMIDataSource
+[submodule "ZenPacks.community.VMwareDataSource-(ericenns)/repo"]
+	path = ZenPacks.community.VMwareDataSource-(ericenns)/repo
+	url = https://github.com/ericenns/ZenPacks.community.VMwareDataSource
