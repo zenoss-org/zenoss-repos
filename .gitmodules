@@ -1357,3 +1357,6 @@
 [submodule "ZenPacks.zenoss.DellMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.DellMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.DellMonitor
+[submodule "ZenPacks.zenoss.DeviceSearch-(zenoss)/repo"]
+	path = ZenPacks.zenoss.DeviceSearch-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.DeviceSearch
