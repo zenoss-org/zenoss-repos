@@ -1516,3 +1516,6 @@
 [submodule "ZenPacks.JanGaraj.ZabbixAgent-(jangaraj)/repo"]
 	path = ZenPacks.JanGaraj.ZabbixAgent-(jangaraj)/repo
 	url = https://github.com/jangaraj/ZenPacks.JanGaraj.ZabbixAgent
+[submodule "ZenPacks.skills1st.FancyEmail-(jcurry)/repo"]
+	path = ZenPacks.skills1st.FancyEmail-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.FancyEmail
