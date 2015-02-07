@@ -1513,3 +1513,6 @@
 [submodule "ZenPacks.Secure24.BaseMonitoring-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.BaseMonitoring-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.BaseMonitoring
+[submodule "ZenPacks.JanGaraj.ZabbixAgent-(jangaraj)/repo"]
+	path = ZenPacks.JanGaraj.ZabbixAgent-(jangaraj)/repo
+	url = https://github.com/jangaraj/ZenPacks.JanGaraj.ZabbixAgent
