@@ -703,3 +703,6 @@
 [submodule "ZenPacks.sodonnell.VMReport-(zenoss)/repo"]
 	path = ZenPacks.sodonnell.VMReport-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.sodonnell.VMReport
+[submodule "ZenPacks.synthetictransactions.SonnyStormes-(zenoss)/repo"]
+	path = ZenPacks.synthetictransactions.SonnyStormes-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.synthetictransactions.SonnyStormes
