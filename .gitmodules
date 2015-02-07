@@ -898,3 +898,6 @@
 [submodule "ZenPacks.community.SMART-(aipai)/repo"]
 	path = ZenPacks.community.SMART-(aipai)/repo
 	url = https://github.com/aipai/ZenPacks.community.SMART
+[submodule "ZenPacks.training.NetBotz-(cluther)/repo"]
+	path = ZenPacks.training.NetBotz-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.training.NetBotz
