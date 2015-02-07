@@ -1384,3 +1384,6 @@
 [submodule "ZenPacks.Secure24.MSExchange-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.MSExchange-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.MSExchange
+[submodule "ZenPacks.Nagios.CheckPing-(cascadeo)/repo"]
+	path = ZenPacks.Nagios.CheckPing-(cascadeo)/repo
+	url = https://github.com/cascadeo/ZenPacks.Nagios.CheckPing
