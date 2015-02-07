@@ -1282,3 +1282,6 @@
 [submodule "ZenPacks.zenoss.PropertyMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.PropertyMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.PropertyMonitor
+[submodule "ZenPacks.zenoss.CiscoUCSDirector-(building39)/repo"]
+	path = ZenPacks.zenoss.CiscoUCSDirector-(building39)/repo
+	url = https://github.com/building39/ZenPacks.zenoss.CiscoUCSDirector
