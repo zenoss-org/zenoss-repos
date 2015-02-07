@@ -280,3 +280,6 @@
 [submodule "Community-ZenPacks-SubModules-(zenoss)/repo"]
 	path = Community-ZenPacks-SubModules-(zenoss)/repo
 	url = https://github.com/zenoss/Community-ZenPacks-SubModules
+[submodule "ZenPacks.zenoss.Notifications-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Notifications-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Notifications
