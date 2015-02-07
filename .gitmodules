@@ -1042,3 +1042,6 @@
 [submodule "ZenPacks.community.Jenkins-(j053ph4)/repo"]
 	path = ZenPacks.community.Jenkins-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.Jenkins
+[submodule "ZenPacks.zenoss.WSMAN-(zenoss)/repo"]
+	path = ZenPacks.zenoss.WSMAN-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.WSMAN
