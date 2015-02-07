@@ -1219,3 +1219,6 @@
 [submodule "ZenPacks.luizzmizz.PrinterMIB-(luizzmizz)/repo"]
 	path = ZenPacks.luizzmizz.PrinterMIB-(luizzmizz)/repo
 	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.PrinterMIB
+[submodule "ZenPacks.community.CIMHardwareMon-(epuzanov)/repo"]
+	path = ZenPacks.community.CIMHardwareMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.CIMHardwareMon
