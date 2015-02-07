@@ -730,3 +730,6 @@
 [submodule "ZenPacks.AndreaConsadori.Iomega-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Iomega-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Iomega
+[submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.LenovoRDThinkServer
