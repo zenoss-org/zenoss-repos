@@ -457,3 +457,6 @@
 [submodule "ZenPacks.community.HPPrinterTrapTransforms-(zenoss)/repo"]
 	path = ZenPacks.community.HPPrinterTrapTransforms-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.HPPrinterTrapTransforms
+[submodule "ZenPacks.community.HPSIMMonitor-(zenoss)/repo"]
+	path = ZenPacks.community.HPSIMMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.HPSIMMonitor
