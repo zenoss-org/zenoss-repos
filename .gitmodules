@@ -16,3 +16,6 @@
 [submodule "Script-Event-Exporter-(dougsyer)/repo"]
 	path = Script-Event-Exporter-(dougsyer)/repo
 	url = https://github.com/dougsyer/Zenoss-Examples-and-Tools
+[submodule "Script-RRD-to-CSV-(hackeys)/repo"]
+	path = Script-RRD-to-CSV-(hackeys)/repo
+	url = https://github.com/hackeys/zenossScripts
