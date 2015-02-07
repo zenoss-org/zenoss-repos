@@ -1,0 +1,3 @@
+[submodule "Script-Alert-HipChat-(damascopaul)/repo"]
+	path = Script-Alert-HipChat-(damascopaul)/repo
+	url = https://github.com/damascopaul/zenoss-hippy
