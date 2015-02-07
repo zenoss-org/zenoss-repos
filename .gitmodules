@@ -1135,3 +1135,6 @@
 [submodule "Zenpacks.zenoss.ZenJMX-(alienth)/repo"]
 	path = Zenpacks.zenoss.ZenJMX-(alienth)/repo
 	url = https://github.com/alienth/Zenpacks.zenoss.ZenJMX
+[submodule "ZenPacks.community.ZopeMonitor-(simplesconsultoria)/repo"]
+	path = ZenPacks.community.ZopeMonitor-(simplesconsultoria)/repo
+	url = https://github.com/simplesconsultoria/ZenPacks.community.ZopeMonitor
