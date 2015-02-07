@@ -289,3 +289,6 @@
 [submodule "ZenPacks.zenoss.OpenVZ-(zenoss)/repo"]
 	path = ZenPacks.zenoss.OpenVZ-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.OpenVZ
+[submodule "ZenPacks.zenoss.XenServer-(zenoss)/repo"]
+	path = ZenPacks.zenoss.XenServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.XenServer
