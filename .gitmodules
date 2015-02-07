@@ -1411,3 +1411,6 @@
 [submodule "ZenPacks.skills1st.UserRoles-(jcurry)/repo"]
 	path = ZenPacks.skills1st.UserRoles-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.UserRoles
+[submodule "ZenPacks.skills1st.deviceReports-(jcurry)/repo"]
+	path = ZenPacks.skills1st.deviceReports-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.deviceReports
