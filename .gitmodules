@@ -727,3 +727,6 @@
 [submodule "ZenPacks.AndreaConsadori.Huawei-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Huawei-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Huawei
+[submodule "ZenPacks.AndreaConsadori.Iomega-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Iomega-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Iomega
