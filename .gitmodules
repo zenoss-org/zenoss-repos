@@ -1123,3 +1123,6 @@
 [submodule "ZenPacks.example.EventPlugins-(cluther)/repo"]
 	path = ZenPacks.example.EventPlugins-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.example.EventPlugins
+[submodule "ZenPacks.Darkemon.ZenCustomMap-(Darkemon)/repo"]
+	path = ZenPacks.Darkemon.ZenCustomMap-(Darkemon)/repo
+	url = https://github.com/Darkemon/ZenPacks.Darkemon.ZenCustomMap
