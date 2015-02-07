@@ -1456,3 +1456,6 @@
 [submodule "ZenPacks.community.JuniperPluggableOptics-(kb8u)/repo"]
 	path = ZenPacks.community.JuniperPluggableOptics-(kb8u)/repo
 	url = https://github.com/kb8u/ZenPacks.community.JuniperPluggableOptics
+[submodule "ZenPacks.community.zenMicrosoftMQ-(j053ph4)/repo"]
+	path = ZenPacks.community.zenMicrosoftMQ-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.zenMicrosoftMQ
