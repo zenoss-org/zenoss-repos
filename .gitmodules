@@ -277,3 +277,6 @@
 [submodule "ZenPacks.zenoss.Memcached-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Memcached-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Memcached
+[submodule "Community-ZenPacks-SubModules-(zenoss)/repo"]
+	path = Community-ZenPacks-SubModules-(zenoss)/repo
+	url = https://github.com/zenoss/Community-ZenPacks-SubModules
