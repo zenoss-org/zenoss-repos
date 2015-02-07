@@ -793,3 +793,6 @@
 [submodule "ZenPacks.SCC.ShowGraphPortlet-(zenoss)/repo"]
 	path = ZenPacks.SCC.ShowGraphPortlet-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.SCC.ShowGraphPortlet
+[submodule "ZenPacks.SLSMC.DragonWave-(zenoss)/repo"]
+	path = ZenPacks.SLSMC.DragonWave-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.SLSMC.DragonWave
