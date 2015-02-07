@@ -514,3 +514,6 @@
 [submodule "ZenPacks.mcgov.SiebelCRMMonitor-(zenoss)/repo"]
 	path = ZenPacks.mcgov.SiebelCRMMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.mcgov.SiebelCRMMonitor
+[submodule "ZenPacks.ShaneScott.SnmpName-(zenoss)/repo"]
+	path = ZenPacks.ShaneScott.SnmpName-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.ShaneScott.SnmpName
