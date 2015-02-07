@@ -1216,3 +1216,6 @@
 [submodule "ZenPacks.community.zenTerracotta-(j053ph4)/repo"]
 	path = ZenPacks.community.zenTerracotta-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenTerracotta
+[submodule "ZenPacks.luizzmizz.PrinterMIB-(luizzmizz)/repo"]
+	path = ZenPacks.luizzmizz.PrinterMIB-(luizzmizz)/repo
+	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.PrinterMIB
