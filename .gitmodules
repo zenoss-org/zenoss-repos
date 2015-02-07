@@ -1252,3 +1252,6 @@
 [submodule "ZenPacks.presidencia.PrinterInventory-(luizzmizz)/repo"]
 	path = ZenPacks.presidencia.PrinterInventory-(luizzmizz)/repo
 	url = https://github.com/luizzmizz/ZenPacks.presidencia.PrinterInventory
+[submodule "ZenPacks.community.AirbiquityDevice-(j053ph4)/repo"]
+	path = ZenPacks.community.AirbiquityDevice-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.AirbiquityDevice
