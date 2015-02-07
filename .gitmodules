@@ -694,3 +694,6 @@
 [submodule "ZenPacks.smbambling.ActiveDirectory-(zenoss)/repo"]
 	path = ZenPacks.smbambling.ActiveDirectory-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.smbambling.ActiveDirectory
+[submodule "ZenPacks.sodonnell.MACReport-(zenoss)/repo"]
+	path = ZenPacks.sodonnell.MACReport-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.sodonnell.MACReport
