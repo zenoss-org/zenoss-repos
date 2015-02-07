@@ -445,3 +445,6 @@
 [submodule "ZenPacks.community.Clariion-(zenoss)/repo"]
 	path = ZenPacks.community.Clariion-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Clariion
+[submodule "ZenPacks.community.FDS-(zenoss)/repo"]
+	path = ZenPacks.community.FDS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.FDS
