@@ -1327,3 +1327,6 @@
 [submodule "ZenPacks.zenoss.JMXNotificationListener-(zenoss)/repo"]
 	path = ZenPacks.zenoss.JMXNotificationListener-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.JMXNotificationListener
+[submodule "ZenPacks.community.MitsubishiUPS-(j053ph4)/repo"]
+	path = ZenPacks.community.MitsubishiUPS-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.MitsubishiUPS
