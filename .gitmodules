@@ -928,3 +928,6 @@
 [submodule "ZenPacks.BlakeDrager.JuniperJSeries.Performance-(zenoss)/repo"]
 	path = ZenPacks.BlakeDrager.JuniperJSeries.Performance-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.BlakeDrager.JuniperJSeries.Performance
+[submodule "ZenPacks.PBnJSolutions.Barracuda.Watcher-(zenoss)/repo"]
+	path = ZenPacks.PBnJSolutions.Barracuda.Watcher-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.PBnJSolutions.Barracuda.Watcher
