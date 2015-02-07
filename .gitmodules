@@ -1249,3 +1249,6 @@
 [submodule "ZenPacks.Cascadeo.ZenSmokeping-(cascadeo)/repo"]
 	path = ZenPacks.Cascadeo.ZenSmokeping-(cascadeo)/repo
 	url = https://github.com/cascadeo/ZenPacks.Cascadeo.ZenSmokeping
+[submodule "ZenPacks.presidencia.PrinterInventory-(luizzmizz)/repo"]
+	path = ZenPacks.presidencia.PrinterInventory-(luizzmizz)/repo
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.PrinterInventory
