@@ -22,3 +22,6 @@
 [submodule "Configuration-Chef-Cookbook-Zenoss-Register-(themoore)/repo"]
 	path = Configuration-Chef-Cookbook-Zenoss-Register-(themoore)/repo
 	url = https://github.com/themoore/zenoss_register
+[submodule "Integration-Android-Zendroid-(slashmili)/repo"]
+	path = Integration-Android-Zendroid-(slashmili)/repo
+	url = https://github.com/slashmili/Zendroid
