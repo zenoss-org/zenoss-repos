@@ -310,3 +310,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Powernet7930-(nyeates)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Powernet7930-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Iwillfearnoevil.Powernet7930
+[submodule "ZenPacks.Jcolon.NortelMibs-(nyeates)/repo"]
+	path = ZenPacks.Jcolon.NortelMibs-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Jcolon.NortelMibs
