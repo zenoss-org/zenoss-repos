@@ -1051,3 +1051,6 @@
 [submodule "ZenPacks.community.WhatsDownPortlet-(Pobice)/repo"]
 	path = ZenPacks.community.WhatsDownPortlet-(Pobice)/repo
 	url = https://github.com/Pobice/ZenPacks.community.WhatsDownPortlet
+[submodule "ZenPacks.jhanson.Clouseau-(jhanson)/repo"]
+	path = ZenPacks.jhanson.Clouseau-(jhanson)/repo
+	url = https://github.com/jhanson/ZenPacks.jhanson.Clouseau
