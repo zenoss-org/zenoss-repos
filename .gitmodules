@@ -10,3 +10,6 @@
 [submodule "Script-Alert-Pushover-(nathan-oakes)/repo"]
 	path = Script-Alert-Pushover-(nathan-oakes)/repo
 	url = https://github.com/nathan-oakes/zenoss-pushover
+[submodule "Integration-Graphite-(amorphic)/repo"]
+	path = Integration-Graphite-(amorphic)/repo
+	url = https://github.com/amorphic/graphite-zenossMetrics
