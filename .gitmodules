@@ -1414,3 +1414,6 @@
 [submodule "ZenPacks.skills1st.deviceReports-(jcurry)/repo"]
 	path = ZenPacks.skills1st.deviceReports-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.deviceReports
+[submodule "ZenPacks.ShaneScott.ipSLA-(Hackman238)/repo"]
+	path = ZenPacks.ShaneScott.ipSLA-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.ShaneScott.ipSLA
