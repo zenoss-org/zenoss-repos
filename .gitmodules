@@ -997,3 +997,6 @@
 [submodule "ZenPacks.Nova.Cisco.Mibs-(zenoss)/repo"]
 	path = ZenPacks.Nova.Cisco.Mibs-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nova.Cisco.Mibs
+[submodule "ZenPacks.Nova.Collector.Tool-(zenoss)/repo"]
+	path = ZenPacks.Nova.Collector.Tool-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Nova.Collector.Tool
