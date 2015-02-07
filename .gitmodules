@@ -319,3 +319,6 @@
 [submodule "ZenPacks.Nova.UCDFileSystemMap-(nyeates)/repo"]
 	path = ZenPacks.Nova.UCDFileSystemMap-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.UCDFileSystemMap
+[submodule "ZenPacks.Opengear.ConsoleServer-(nyeates)/repo"]
+	path = ZenPacks.Opengear.ConsoleServer-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Opengear.ConsoleServer
