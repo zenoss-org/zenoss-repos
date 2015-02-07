@@ -535,3 +535,6 @@
 [submodule "ZenPacks.community.CiscoIronportSNMP-(voorhees)/repo"]
 	path = ZenPacks.community.CiscoIronportSNMP-(voorhees)/repo
 	url = https://github.com/voorhees/ZenPacks.community.CiscoIronportSNMP
+[submodule "ZenPacks.community.ConstructionKit-(j053ph4)/repo"]
+	path = ZenPacks.community.ConstructionKit-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.ConstructionKit
