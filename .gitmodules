@@ -1291,3 +1291,6 @@
 [submodule "ZenPacks.community.mibBrowser-(jcurry)/repo"]
 	path = ZenPacks.community.mibBrowser-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.community.mibBrowser
+[submodule "ZenPacks.community.AvailabilityReportPerCollection-(jcurry)/repo"]
+	path = ZenPacks.community.AvailabilityReportPerCollection-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.community.AvailabilityReportPerCollection
