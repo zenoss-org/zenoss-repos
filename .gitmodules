@@ -355,3 +355,6 @@
 [submodule "ZenPacks.AndreaConsadori.UbiquitiNanostation-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.UbiquitiNanostation-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.UbiquitiNanostation
+[submodule "ZenPacks.Hyper.virtualMachines-(nyeates)/repo"]
+	path = ZenPacks.Hyper.virtualMachines-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Hyper.virtualMachines
