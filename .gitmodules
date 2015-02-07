@@ -13,3 +13,6 @@
 [submodule "Integration-Graphite-(amorphic)/repo"]
 	path = Integration-Graphite-(amorphic)/repo
 	url = https://github.com/amorphic/graphite-zenossMetrics
+[submodule "Script-Event-Exporter-(dougsyer)/repo"]
+	path = Script-Event-Exporter-(dougsyer)/repo
+	url = https://github.com/dougsyer/Zenoss-Examples-and-Tools
