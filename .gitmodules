@@ -241,3 +241,6 @@
 [submodule "ZenPacks.zenoss.CalculatedPerformance-(zenoss)/repo"]
 	path = ZenPacks.zenoss.CalculatedPerformance-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.CalculatedPerformance
+[submodule "ZenPacks.zenoss.LinuxMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.LinuxMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.LinuxMonitor
