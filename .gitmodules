@@ -646,3 +646,6 @@
 [submodule "ZenPacks.BlakeDrager.fping-(nyeates)/repo"]
 	path = ZenPacks.BlakeDrager.fping-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.BlakeDrager.fping
+[submodule "ZenPacks.Ecocoms.OpenLayersMap-(nyeates)/repo"]
+	path = ZenPacks.Ecocoms.OpenLayersMap-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Ecocoms.OpenLayersMap
