@@ -1258,3 +1258,6 @@
 [submodule "ZenPacks.community.OpenTSDB-(j053ph4)/repo"]
 	path = ZenPacks.community.OpenTSDB-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.OpenTSDB
+[submodule "ZenPacks.community.NanThreshold-(SteelHouseLabs)/repo"]
+	path = ZenPacks.community.NanThreshold-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.community.NanThreshold
