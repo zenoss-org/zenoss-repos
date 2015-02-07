@@ -817,3 +817,6 @@
 [submodule "ZenPacks.community.CiscoASAVPN-(zenoss)/repo"]
 	path = ZenPacks.community.CiscoASAVPN-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.CiscoASAVPN
+[submodule "ZenPacks.community.DellM1000e-(zenoss)/repo"]
+	path = ZenPacks.community.DellM1000e-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.DellM1000e
