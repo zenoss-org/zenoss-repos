@@ -1351,3 +1351,6 @@
 [submodule "ZenPacks.zenoss.XenMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.XenMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.XenMonitor
+[submodule "ZenPacks.zenoss.JabberMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.JabberMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.JabberMonitor
