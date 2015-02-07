@@ -1237,3 +1237,6 @@
 [submodule "ZenPacks.presidencia.CustomReports-(luizzmizz)/repo"]
 	path = ZenPacks.presidencia.CustomReports-(luizzmizz)/repo
 	url = https://github.com/luizzmizz/ZenPacks.presidencia.CustomReports
+[submodule "ZenPacks.luizzmizz.WindowsWS-(luizzmizz)/repo"]
+	path = ZenPacks.luizzmizz.WindowsWS-(luizzmizz)/repo
+	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.WindowsWS
