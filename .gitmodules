@@ -1423,3 +1423,6 @@
 [submodule "ZenPacks.community.DB2Mon-(j053ph4)/repo"]
 	path = ZenPacks.community.DB2Mon-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.DB2Mon
+[submodule "ZenPacks.zenoss.OpenTsdbReporter-(zenoss)/repo"]
+	path = ZenPacks.zenoss.OpenTsdbReporter-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.OpenTsdbReporter
