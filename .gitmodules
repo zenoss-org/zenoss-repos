@@ -1201,3 +1201,6 @@
 [submodule "ZenPacks.EventEnrichment.Connector-(EventEnrichment)/repo"]
 	path = ZenPacks.EventEnrichment.Connector-(EventEnrichment)/repo
 	url = https://github.com/EventEnrichment/ZenPacks.EventEnrichment.Connector
+[submodule "ZenPacks.community.PacketFence-(crouthamela)/repo"]
+	path = ZenPacks.community.PacketFence-(crouthamela)/repo
+	url = https://github.com/crouthamela/ZenPacks.community.PacketFence
