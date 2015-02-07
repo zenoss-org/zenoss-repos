@@ -46,3 +46,6 @@
 [submodule "API-Ruby-(zenchild)/repo"]
 	path = API-Ruby-(zenchild)/repo
 	url = https://github.com/zenchild/zenoss_client
+[submodule "ZenPacks.community.DistributedCollectors-(epuzanov)/repo"]
+	path = ZenPacks.community.DistributedCollectors-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.DistributedCollectors
