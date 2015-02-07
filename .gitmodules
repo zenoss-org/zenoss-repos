@@ -934,3 +934,6 @@
 [submodule "ZenPacks.community.EventGraph.BySeverity-(zenoss)/repo"]
 	path = ZenPacks.community.EventGraph.BySeverity-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.EventGraph.BySeverity
+[submodule "ZenPacks.community.Memcached_Template-(zenoss)/repo"]
+	path = ZenPacks.community.Memcached_Template-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Memcached_Template
