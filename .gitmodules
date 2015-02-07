@@ -1507,3 +1507,6 @@
 [submodule "ZenPacks.zenoss.Fortinet.FortiGate-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Fortinet.FortiGate-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Fortinet.FortiGate
+[submodule "ZenPacks.community.snmp.HysteresisThreshold-(oxpa)/repo"]
+	path = ZenPacks.community.snmp.HysteresisThreshold-(oxpa)/repo
+	url = https://github.com/oxpa/ZenPacks.community.snmp.HysteresisThreshold
