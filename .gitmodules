@@ -994,3 +994,6 @@
 [submodule "ZenPacks.Nova.Cisco.Catalyst-(zenoss)/repo"]
 	path = ZenPacks.Nova.Cisco.Catalyst-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Nova.Cisco.Catalyst
+[submodule "ZenPacks.Nova.Cisco.Mibs-(zenoss)/repo"]
+	path = ZenPacks.Nova.Cisco.Mibs-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Nova.Cisco.Mibs
