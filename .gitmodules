@@ -436,3 +436,6 @@
 [submodule "ZenPacks.atrawog.Brocade-(zenoss)/repo"]
 	path = ZenPacks.atrawog.Brocade-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.atrawog.Brocade
+[submodule "ZenPacks.chudler.AlterPathCS-(zenoss)/repo"]
+	path = ZenPacks.chudler.AlterPathCS-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.chudler.AlterPathCS
