@@ -343,3 +343,6 @@
 [submodule "ZenPacks.AndreaConsadori.Funkwerk-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Funkwerk-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Funkwerk
+[submodule "ZenPacks.AndreaConsadori.Huawei-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Huawei-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Huawei
