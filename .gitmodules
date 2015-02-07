@@ -205,3 +205,6 @@
 [submodule "ZenPacks.community.VMwareEsx-(zenoss)/repo"]
 	path = ZenPacks.community.VMwareEsx-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.VMwareEsx
+[submodule "ZenPacks.example.Techniques-(zenoss)/repo"]
+	path = ZenPacks.example.Techniques-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.example.Techniques
