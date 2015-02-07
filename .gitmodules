@@ -1522,3 +1522,6 @@
 [submodule "ZenPacks.JanGaraj.DataMirroring-(jangaraj)/repo"]
 	path = ZenPacks.JanGaraj.DataMirroring-(jangaraj)/repo
 	url = https://github.com/jangaraj/ZenPacks.JanGaraj.DataMirroring
+[submodule "ZenPacks.SteelHouseLabs.Reports.Interface.Volume-(SteelHouseLabs)/repo"]
+	path = ZenPacks.SteelHouseLabs.Reports.Interface.Volume-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.Reports.Interface.Volume
