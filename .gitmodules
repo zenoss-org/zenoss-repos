@@ -1405,3 +1405,6 @@
 [submodule "ZenPacks.community.zenNrpeComponent-(j053ph4)/repo"]
 	path = ZenPacks.community.zenNrpeComponent-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenNrpeComponent
+[submodule "ZenPacks.skills1st.snmpExtend-(jcurry)/repo"]
+	path = ZenPacks.skills1st.snmpExtend-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.snmpExtend
