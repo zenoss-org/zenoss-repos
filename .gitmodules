@@ -1432,3 +1432,6 @@
 [submodule "ZenPacks.SteelHouseLabs.EventForwarder-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.EventForwarder-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.EventForwarder
+[submodule "ZenPacks.SteelHouseLabs.SplunkForwarder-(Hackman238)/repo"]
+	path = ZenPacks.SteelHouseLabs.SplunkForwarder-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.SteelHouseLabs.SplunkForwarder
