@@ -808,3 +808,6 @@
 [submodule "ZenPacks.chudler.GoogleAppEngine-(zenoss)/repo"]
 	path = ZenPacks.chudler.GoogleAppEngine-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.chudler.GoogleAppEngine
+[submodule "ZenPacks.community.AvailabilityReportPerGroup-(zenoss)/repo"]
+	path = ZenPacks.community.AvailabilityReportPerGroup-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.AvailabilityReportPerGroup
