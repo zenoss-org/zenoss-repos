@@ -796,3 +796,6 @@
 [submodule "ZenPacks.SLSMC.DragonWave-(zenoss)/repo"]
 	path = ZenPacks.SLSMC.DragonWave-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.SLSMC.DragonWave
+[submodule "ZenPacks.TijmenvandenBrink.JuniperIVE-(zenoss)/repo"]
+	path = ZenPacks.TijmenvandenBrink.JuniperIVE-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.TijmenvandenBrink.JuniperIVE
