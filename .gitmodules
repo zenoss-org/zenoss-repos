@@ -1069,3 +1069,6 @@
 [submodule "ZenPacks.Rackspace.Statelogchange-(Hackman238)/repo"]
 	path = ZenPacks.Rackspace.Statelogchange-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.Rackspace.Statelogchange
+[submodule "ZenPacks.Rackspace.Neighbors-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.Neighbors-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.Neighbors
