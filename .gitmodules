@@ -1315,3 +1315,6 @@
 [submodule "ZenPacks.community.PagerDuty-(j053ph4)/repo"]
 	path = ZenPacks.community.PagerDuty-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.PagerDuty
+[submodule "ZenPacks.cluther.PagerDuty-(cluther)/repo"]
+	path = ZenPacks.cluther.PagerDuty-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.cluther.PagerDuty
