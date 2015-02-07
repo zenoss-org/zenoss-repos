@@ -298,3 +298,6 @@
 [submodule "ZenPacks.training.WeatherUnderground-(zenoss)/repo"]
 	path = ZenPacks.training.WeatherUnderground-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.training.WeatherUnderground
+[submodule "ZenPacks.community.Ibmbladecenter-(rebelinux)/repo"]
+	path = ZenPacks.community.Ibmbladecenter-(rebelinux)/repo
+	url = https://github.com/rebelinux/ZenPacks.community.Ibmbladecenter
