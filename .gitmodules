@@ -1273,3 +1273,6 @@
 [submodule "ZenPacks.zenoss.WindowsMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.WindowsMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.WindowsMonitor
+[submodule "ZenPacks.zenoss.ZenJMX-(zenoss)/repo"]
+	path = ZenPacks.zenoss.ZenJMX-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.ZenJMX
