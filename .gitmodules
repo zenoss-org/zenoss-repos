@@ -1156,3 +1156,6 @@
 [submodule "ZenPacks.zenoss.NNTPMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.NNTPMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.NNTPMonitor
+[submodule "ZenPacks.zenoss.RPCMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.RPCMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.RPCMonitor
