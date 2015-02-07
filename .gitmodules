@@ -148,3 +148,6 @@
 [submodule "ZenPacks.community.AIX-(zenoss)/repo"]
 	path = ZenPacks.community.AIX-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.AIX
+[submodule "ZenPacks.community.f5-(ZCA)/repo"]
+	path = ZenPacks.community.f5-(ZCA)/repo
+	url = https://github.com/ZCA/ZenPacks.community.f5
