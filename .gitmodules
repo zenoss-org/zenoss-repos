@@ -1375,3 +1375,6 @@
 [submodule "ZenPacks.ssv.LibvirtSNMP-(sergevs)/repo"]
 	path = ZenPacks.ssv.LibvirtSNMP-(sergevs)/repo
 	url = https://github.com/sergevs/ZenPacks.ssv.LibvirtSNMP
+[submodule "ZenPacks.zenoss.ZooKeeper-(zenoss)/repo"]
+	path = ZenPacks.zenoss.ZooKeeper-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.ZooKeeper
