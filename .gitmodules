@@ -52,3 +52,6 @@
 [submodule "ZenPacks.zenoss.Microsoft.Windows-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Microsoft.Windows-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Microsoft.Windows
+[submodule "ZenPack.community.MongoDB-(bcarpio)/repo"]
+	path = ZenPack.community.MongoDB-(bcarpio)/repo
+	url = https://github.com/bcarpio/ZenPack.community.MongoDB
