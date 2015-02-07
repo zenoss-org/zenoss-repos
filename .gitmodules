@@ -1174,3 +1174,6 @@
 [submodule "ZenPacks.zenoss.Layer2-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Layer2-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Layer2
+[submodule "ZenPacks.zenoss.OpenStack-(zenoss)/repo"]
+	path = ZenPacks.zenoss.OpenStack-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.OpenStack
