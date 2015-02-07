@@ -394,3 +394,6 @@
 [submodule "ZenPacks.AndreaConsadori.MRV-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.MRV-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.MRV
+[submodule "ZenPacks.AndreaConsadori.Motorola-(zenoss)/repo"]
+	path = ZenPacks.AndreaConsadori.Motorola-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Motorola
