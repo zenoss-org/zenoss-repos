@@ -466,3 +466,6 @@
 [submodule "ZenPacks.community.HPUXMonitor-(zenoss)/repo"]
 	path = ZenPacks.community.HPUXMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.HPUXMonitor
+[submodule "ZenPacks.community.IBM3584Mon-(zenoss)/repo"]
+	path = ZenPacks.community.IBM3584Mon-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.IBM3584Mon
