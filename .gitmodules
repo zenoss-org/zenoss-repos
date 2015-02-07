@@ -115,3 +115,6 @@
 [submodule "ZenPacks.rhybudd.alerts-(NetworksAreMadeOfString)/repo"]
 	path = ZenPacks.rhybudd.alerts-(NetworksAreMadeOfString)/repo
 	url = https://github.com/NetworksAreMadeOfString/ZenPacks.rhybudd.alerts
+[submodule "ZenPack.community.Citrix-(prg3)/repo"]
+	path = ZenPack.community.Citrix-(prg3)/repo
+	url = https://github.com/prg3/ZenPack.community.Citrix
