@@ -961,3 +961,6 @@
 [submodule "ZenPacks.example.DeviceTab-(cluther)/repo"]
 	path = ZenPacks.example.DeviceTab-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.example.DeviceTab
+[submodule "ZenPacks.zenoss.MikroTik-(zenoss)/repo"]
+	path = ZenPacks.zenoss.MikroTik-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.MikroTik
