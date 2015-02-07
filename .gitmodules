@@ -634,3 +634,6 @@
 [submodule "ZenPacks.AndreaConsadori.Microtick-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Microtick-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Microtick
+[submodule "ZenPacks.AndreaConsadori.Netasq-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Netasq-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Netasq
