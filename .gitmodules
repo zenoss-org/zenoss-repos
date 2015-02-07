@@ -1159,3 +1159,6 @@
 [submodule "ZenPacks.zenoss.RPCMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.RPCMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.RPCMonitor
+[submodule "ZenPacks.community.gpfs-(bdeluca)/repo"]
+	path = ZenPacks.community.gpfs-(bdeluca)/repo
+	url = https://github.com/bdeluca/ZenPacks.community.gpfs
