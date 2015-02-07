@@ -640,3 +640,6 @@
 [submodule "ZenPacks.AndreaConsadori.Raytalk-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Raytalk-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Raytalk
+[submodule "ZenPacks.BlakeDrager.Bridgewave-(nyeates)/repo"]
+	path = ZenPacks.BlakeDrager.Bridgewave-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.BlakeDrager.Bridgewave
