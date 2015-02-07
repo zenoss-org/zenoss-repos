@@ -547,3 +547,6 @@
 [submodule "ZenPacks.community.ZenossProcessStats-(zenoss)/repo"]
 	path = ZenPacks.community.ZenossProcessStats-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.ZenossProcessStats
+[submodule "ZenPacks.ShaneScott.ProductionState-(zenoss)/repo"]
+	path = ZenPacks.ShaneScott.ProductionState-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.ShaneScott.ProductionState
