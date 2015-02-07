@@ -1144,3 +1144,6 @@
 [submodule "ZenPacks.zenoss.Packeteer-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Packeteer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Packeteer
+[submodule "ZenPacks.zenoss.DRBDMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.DRBDMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.DRBDMonitor
