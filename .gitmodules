@@ -1318,3 +1318,6 @@
 [submodule "ZenPacks.cluther.PagerDuty-(cluther)/repo"]
 	path = ZenPacks.cluther.PagerDuty-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.cluther.PagerDuty
+[submodule "ZenPacks.CERIT_SC.Qsan-(CERIT-SC)/repo"]
+	path = ZenPacks.CERIT_SC.Qsan-(CERIT-SC)/repo
+	url = https://github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan
