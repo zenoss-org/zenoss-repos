@@ -913,3 +913,6 @@
 [submodule "ZenPacks.Nova.Windows.SNMPPerfMonitor-(nyeates)/repo"]
 	path = ZenPacks.Nova.Windows.SNMPPerfMonitor-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.Windows.SNMPPerfMonitor
+[submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.MSIAS_RadiusServer
