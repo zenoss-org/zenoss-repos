@@ -1141,3 +1141,6 @@
 [submodule "ZenPacks.Rackspace.APC-(Hackman238)/repo"]
 	path = ZenPacks.Rackspace.APC-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.Rackspace.APC
+[submodule "ZenPacks.zenoss.Packeteer-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Packeteer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Packeteer
