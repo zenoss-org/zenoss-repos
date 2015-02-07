@@ -1093,3 +1093,6 @@
 [submodule "ZenPacks.zenoss.MSSQLServer-(zenoss)/repo"]
 	path = ZenPacks.zenoss.MSSQLServer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.MSSQLServer
+[submodule "ZenPacks.community.ResponsiveUI-(vsergeyev)/repo"]
+	path = ZenPacks.community.ResponsiveUI-(vsergeyev)/repo
+	url = https://github.com/vsergeyev/ZenPacks.community.ResponsiveUI
