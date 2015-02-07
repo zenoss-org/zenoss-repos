@@ -532,3 +532,6 @@
 [submodule "ZenPacks.community.NetappMon-(rebelinux)/repo"]
 	path = ZenPacks.community.NetappMon-(rebelinux)/repo
 	url = https://github.com/rebelinux/ZenPacks.community.NetappMon
+[submodule "ZenPacks.community.CiscoIronportSNMP-(voorhees)/repo"]
+	path = ZenPacks.community.CiscoIronportSNMP-(voorhees)/repo
+	url = https://github.com/voorhees/ZenPacks.community.CiscoIronportSNMP
