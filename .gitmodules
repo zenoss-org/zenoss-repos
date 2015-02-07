@@ -925,3 +925,6 @@
 [submodule "ZenPacks.community.mib_utils-(zenoss)/repo"]
 	path = ZenPacks.community.mib_utils-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.mib_utils
+[submodule "ZenPacks.BlakeDrager.JuniperJSeries.Performance-(zenoss)/repo"]
+	path = ZenPacks.BlakeDrager.JuniperJSeries.Performance-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.BlakeDrager.JuniperJSeries.Performance
