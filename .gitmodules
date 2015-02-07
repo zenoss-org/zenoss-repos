@@ -565,3 +565,6 @@
 [submodule "ZenPacks.community.VirtualIP-(epuzanov)/repo"]
 	path = ZenPacks.community.VirtualIP-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.VirtualIP
+[submodule "ZenPacks.community.WBEMDataSource-(epuzanov)/repo"]
+	path = ZenPacks.community.WBEMDataSource-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.WBEMDataSource
