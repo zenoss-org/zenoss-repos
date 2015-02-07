@@ -49,3 +49,6 @@
 [submodule "ZenPacks.community.DistributedCollectors-(epuzanov)/repo"]
 	path = ZenPacks.community.DistributedCollectors-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.DistributedCollectors
+[submodule "ZenPacks.zenoss.Microsoft.Windows-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Microsoft.Windows-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Microsoft.Windows
