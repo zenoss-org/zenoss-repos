@@ -604,3 +604,6 @@
 [submodule "ZenPacks.Nagios.CheckPing-(nyeates)/repo"]
 	path = ZenPacks.Nagios.CheckPing-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nagios.CheckPing
+[submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring-(nyeates)/repo"]
+	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.OndrejJakubcik.OracleHwMonitoring
