@@ -1393,3 +1393,6 @@
 [submodule "ZenPacks.zenoss.Import4-(zenoss)/repo"]
 	path = ZenPacks.zenoss.Import4-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.Import4
+[submodule "ZenPacks.community.aggregateAPCpduAB-(nickanderson)/repo"]
+	path = ZenPacks.community.aggregateAPCpduAB-(nickanderson)/repo
+	url = https://github.com/nickanderson/ZenPacks.community.aggregateAPCpduAB
