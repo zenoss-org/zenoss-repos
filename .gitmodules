@@ -958,3 +958,6 @@
 [submodule "ZenPacks.cluther.AIN-(cluther)/repo"]
 	path = ZenPacks.cluther.AIN-(cluther)/repo
 	url = https://github.com/cluther/ZenPacks.cluther.AIN
+[submodule "ZenPacks.example.DeviceTab-(cluther)/repo"]
+	path = ZenPacks.example.DeviceTab-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.example.DeviceTab
