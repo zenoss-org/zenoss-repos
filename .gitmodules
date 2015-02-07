@@ -577,3 +577,6 @@
 [submodule "ZenPacks.community.DellEqualLogicMon-(ericenns)/repo"]
 	path = ZenPacks.community.DellEqualLogicMon-(ericenns)/repo
 	url = https://github.com/ericenns/ZenPacks.community.DellEqualLogicMon
+[submodule "ZenPacks.community.IceCast2-(simplesconsultoria)/repo"]
+	path = ZenPacks.community.IceCast2-(simplesconsultoria)/repo
+	url = https://github.com/simplesconsultoria/ZenPacks.community.IceCast2
