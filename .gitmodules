@@ -1333,3 +1333,6 @@
 [submodule "ZenPacks.zenoss.CUC_CCMP-(love-cascadeo)/repo"]
 	path = ZenPacks.zenoss.CUC_CCMP-(love-cascadeo)/repo
 	url = https://github.com/love-cascadeo/ZenPacks.zenoss.CUC_CCMP
+[submodule "ZenPacks.zenoss.CUC_CM-(love-cascadeo)/repo"]
+	path = ZenPacks.zenoss.CUC_CM-(love-cascadeo)/repo
+	url = https://github.com/love-cascadeo/ZenPacks.zenoss.CUC_CM
