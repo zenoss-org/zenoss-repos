@@ -127,3 +127,6 @@
 [submodule "ZenPacks.community.ZeusLoadBalancer-(zenoss)/repo"]
 	path = ZenPacks.community.ZeusLoadBalancer-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.ZeusLoadBalancer
+[submodule "ZenPacks.community.SNMPLocation-(zenoss)/repo"]
+	path = ZenPacks.community.SNMPLocation-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.SNMPLocation
