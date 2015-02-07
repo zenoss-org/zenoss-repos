@@ -136,3 +136,6 @@
 [submodule "ZenPacks.community.CiscoEnvMon-(epuzanov)/repo"]
 	path = ZenPacks.community.CiscoEnvMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.CiscoEnvMon
+[submodule "ZenPack.synthetictransactions-(sstormes)/repo"]
+	path = ZenPack.synthetictransactions-(sstormes)/repo
+	url = https://github.com/sstormes/ZenPack.synthetictransactions
