@@ -1438,3 +1438,6 @@
 [submodule "ZenPacks.zenoss.OrderedComponentLists-(joshw)/repo"]
 	path = ZenPacks.zenoss.OrderedComponentLists-(joshw)/repo
 	url = https://github.com/joshw/ZenPacks.zenoss.OrderedComponentLists
+[submodule "ZenPacks.community.CiscoPluggableOptics-(kb8u)/repo"]
+	path = ZenPacks.community.CiscoPluggableOptics-(kb8u)/repo
+	url = https://github.com/kb8u/ZenPacks.community.CiscoPluggableOptics
