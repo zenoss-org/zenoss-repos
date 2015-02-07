@@ -814,3 +814,6 @@
 [submodule "ZenPacks.community.Cfengine-(zenoss)/repo"]
 	path = ZenPacks.community.Cfengine-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Cfengine
+[submodule "ZenPacks.community.CiscoASAVPN-(zenoss)/repo"]
+	path = ZenPacks.community.CiscoASAVPN-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.CiscoASAVPN
