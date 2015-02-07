@@ -523,3 +523,6 @@
 [submodule "ZenPacks.community.mib_browser-(jcurry)/repo"]
 	path = ZenPacks.community.mib_browser-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.community.mib_browser
+[submodule "ZenPacks.community.LinMon_WBEM-(epuzanov)/repo"]
+	path = ZenPacks.community.LinMon_WBEM-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.LinMon_WBEM
