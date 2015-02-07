@@ -886,3 +886,6 @@
 [submodule "ZenPacks.community.OracleDBMon-(pmrpla)/repo"]
 	path = ZenPacks.community.OracleDBMon-(pmrpla)/repo
 	url = https://github.com/pmrpla/ZenPacks.community.OracleDBMon
+[submodule "ZenPacks.community.CIMMon-(epuzanov)/repo"]
+	path = ZenPacks.community.CIMMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.CIMMon
