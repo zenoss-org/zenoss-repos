@@ -28,3 +28,6 @@
 [submodule "API-Python-(iamseth)/repo"]
 	path = API-Python-(iamseth)/repo
 	url = https://github.com/iamseth/python-zenoss
+[submodule "Configuration-Chef-Cookbook-(ZCA)/repo"]
+	path = Configuration-Chef-Cookbook-(ZCA)/repo
+	url = https://github.com/ZCA/zenoss-chef-cookbook
