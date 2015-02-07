@@ -1255,3 +1255,6 @@
 [submodule "ZenPacks.community.AirbiquityDevice-(j053ph4)/repo"]
 	path = ZenPacks.community.AirbiquityDevice-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.AirbiquityDevice
+[submodule "ZenPacks.community.OpenTSDB-(j053ph4)/repo"]
+	path = ZenPacks.community.OpenTSDB-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.OpenTSDB
