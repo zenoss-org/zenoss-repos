@@ -811,3 +811,6 @@
 [submodule "ZenPacks.community.AvailabilityReportPerGroup-(zenoss)/repo"]
 	path = ZenPacks.community.AvailabilityReportPerGroup-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.AvailabilityReportPerGroup
+[submodule "ZenPacks.community.Cfengine-(zenoss)/repo"]
+	path = ZenPacks.community.Cfengine-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Cfengine
