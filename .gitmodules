@@ -1147,3 +1147,6 @@
 [submodule "ZenPacks.zenoss.DRBDMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.DRBDMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.DRBDMonitor
+[submodule "ZenPacks.zenoss.IRCDMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.IRCDMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.IRCDMonitor
