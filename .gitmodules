@@ -916,3 +916,6 @@
 [submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.MSIAS_RadiusServer
+[submodule "ZenPacks.BlakeDrager.JuniperJSeries.Performance-(nyeates)/repo"]
+	path = ZenPacks.BlakeDrager.JuniperJSeries.Performance-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.BlakeDrager.JuniperJSeries.Performance
