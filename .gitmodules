@@ -1399,3 +1399,6 @@
 [submodule "ZenPacks.community.CiscoEnvmonE-(NWNCorp)/repo"]
 	path = ZenPacks.community.CiscoEnvmonE-(NWNCorp)/repo
 	url = https://github.com/NWNCorp/ZenPacks.community.CiscoEnvmonE
+[submodule "ZenPacks.ZenSystems.ApcUps-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.ApcUps-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps
