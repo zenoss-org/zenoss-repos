@@ -94,3 +94,6 @@
 [submodule "ZenPacks.TwoNMS.PrinterMIB-(zenoss)/repo"]
 	path = ZenPacks.TwoNMS.PrinterMIB-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.TwoNMS.PrinterMIB
+[submodule "ZenPacks.community.HPBladeChassis-(zenoss)/repo"]
+	path = ZenPacks.community.HPBladeChassis-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.HPBladeChassis
