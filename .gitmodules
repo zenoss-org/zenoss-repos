@@ -670,3 +670,6 @@
 [submodule "ZenPacks.community.groupreporting-(zenoss)/repo"]
 	path = ZenPacks.community.groupreporting-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.groupreporting
+[submodule "ZenPacks.community.powerware-(zenoss)/repo"]
+	path = ZenPacks.community.powerware-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.powerware
