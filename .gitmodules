@@ -1381,3 +1381,6 @@
 [submodule "ZenPacks.Secure24.HTTP-(jstanley23)/repo"]
 	path = ZenPacks.Secure24.HTTP-(jstanley23)/repo
 	url = https://github.com/jstanley23/ZenPacks.Secure24.HTTP
+[submodule "ZenPacks.Secure24.MSExchange-(jstanley23)/repo"]
+	path = ZenPacks.Secure24.MSExchange-(jstanley23)/repo
+	url = https://github.com/jstanley23/ZenPacks.Secure24.MSExchange
