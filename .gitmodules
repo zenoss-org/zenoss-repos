@@ -214,3 +214,6 @@
 [submodule "ZenPacks.community.CelerraFileSystem-(zenoss)/repo"]
 	path = ZenPacks.community.CelerraFileSystem-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.CelerraFileSystem
+[submodule "ZenPacks.community.ChefClient-(zenoss)/repo"]
+	path = ZenPacks.community.ChefClient-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.ChefClient
