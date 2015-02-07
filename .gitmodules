@@ -553,3 +553,6 @@
 [submodule "ZenPacks.oie.KannelMonitor-(zenoss)/repo"]
 	path = ZenPacks.oie.KannelMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.oie.KannelMonitor
+[submodule "ZenPacks.community.ComponentsCleaner-(epuzanov)/repo"]
+	path = ZenPacks.community.ComponentsCleaner-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.ComponentsCleaner
