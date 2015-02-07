@@ -1435,3 +1435,6 @@
 [submodule "ZenPacks.SteelHouseLabs.SplunkForwarder-(Hackman238)/repo"]
 	path = ZenPacks.SteelHouseLabs.SplunkForwarder-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.SteelHouseLabs.SplunkForwarder
+[submodule "ZenPacks.zenoss.OrderedComponentLists-(joshw)/repo"]
+	path = ZenPacks.zenoss.OrderedComponentLists-(joshw)/repo
+	url = https://github.com/joshw/ZenPacks.zenoss.OrderedComponentLists
