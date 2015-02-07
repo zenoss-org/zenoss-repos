@@ -637,3 +637,6 @@
 [submodule "ZenPacks.AndreaConsadori.Netasq-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Netasq-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Netasq
+[submodule "ZenPacks.AndreaConsadori.Raytalk-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Raytalk-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Raytalk
