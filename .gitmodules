@@ -1540,3 +1540,6 @@
 [submodule "ZenPacks.skills1st.createNewRole-(jcurry)/repo"]
 	path = ZenPacks.skills1st.createNewRole-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.createNewRole
+[submodule "ZenPacks.JanGaraj.HappyNewYear2015-(jangaraj)/repo"]
+	path = ZenPacks.JanGaraj.HappyNewYear2015-(jangaraj)/repo
+	url = https://github.com/jangaraj/ZenPacks.JanGaraj.HappyNewYear2015
