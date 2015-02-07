@@ -106,3 +106,6 @@
 [submodule "ZenPacks.zenoss.PostgreSQL-(zenoss)/repo"]
 	path = ZenPacks.zenoss.PostgreSQL-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.PostgreSQL
+[submodule "ZenPacks.zenoss.Puppet-(zenoss)/repo"]
+	path = ZenPacks.zenoss.Puppet-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.Puppet
