@@ -253,3 +253,6 @@
 [submodule "ZenPacks.community.HPEVAMon-(epuzanov)/repo"]
 	path = ZenPacks.community.HPEVAMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.HPEVAMon
+[submodule "ZenPacks.community.MySQLMon-(epuzanov)/repo"]
+	path = ZenPacks.community.MySQLMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.MySQLMon
