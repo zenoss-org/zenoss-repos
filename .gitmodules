@@ -1321,3 +1321,6 @@
 [submodule "ZenPacks.CERIT_SC.Qsan-(CERIT-SC)/repo"]
 	path = ZenPacks.CERIT_SC.Qsan-(CERIT-SC)/repo
 	url = https://github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan
+[submodule "ZenPacks.Rackspace.CiscoRoute-(Hackman238)/repo"]
+	path = ZenPacks.Rackspace.CiscoRoute-(Hackman238)/repo
+	url = https://github.com/Hackman238/ZenPacks.Rackspace.CiscoRoute
