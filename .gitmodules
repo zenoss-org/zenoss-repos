@@ -349,3 +349,6 @@
 [submodule "ZenPacks.AndreaConsadori.Motorola-(nyeates)/repo"]
 	path = ZenPacks.AndreaConsadori.Motorola-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Motorola
+[submodule "ZenPacks.AndreaConsadori.Pfsense-(nyeates)/repo"]
+	path = ZenPacks.AndreaConsadori.Pfsense-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.AndreaConsadori.Pfsense
