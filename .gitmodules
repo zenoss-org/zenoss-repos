@@ -235,3 +235,6 @@
 [submodule "ZenPacks.community.Rundeck-(dpetzel)/repo"]
 	path = ZenPacks.community.Rundeck-(dpetzel)/repo
 	url = https://github.com/dpetzel/ZenPacks.community.Rundeck
+[submodule "ZenPacks.training.NetBotz-(pcarinhas)/repo"]
+	path = ZenPacks.training.NetBotz-(pcarinhas)/repo
+	url = https://github.com/pcarinhas/ZenPacks.training.NetBotz
