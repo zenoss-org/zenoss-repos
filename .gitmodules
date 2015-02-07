@@ -1489,3 +1489,6 @@
 [submodule "ZenPacks.community.zenMongoDB-(j053ph4)/repo"]
 	path = ZenPacks.community.zenMongoDB-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenMongoDB
+[submodule "ZenPacks.example.NotificationContextProvider-(cluther)/repo"]
+	path = ZenPacks.example.NotificationContextProvider-(cluther)/repo
+	url = https://github.com/cluther/ZenPacks.example.NotificationContextProvider
