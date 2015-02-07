@@ -991,3 +991,6 @@
 [submodule "ZenPacks.JohnBeck.power.AP7841-(zenoss)/repo"]
 	path = ZenPacks.JohnBeck.power.AP7841-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.JohnBeck.power.AP7841
+[submodule "ZenPacks.Nova.Cisco.Catalyst-(zenoss)/repo"]
+	path = ZenPacks.Nova.Cisco.Catalyst-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Nova.Cisco.Catalyst
