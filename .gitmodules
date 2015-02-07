@@ -460,3 +460,6 @@
 [submodule "ZenPacks.community.HPSIMMonitor-(zenoss)/repo"]
 	path = ZenPacks.community.HPSIMMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.HPSIMMonitor
+[submodule "ZenPacks.community.HPTemperatureSensors-(zenoss)/repo"]
+	path = ZenPacks.community.HPTemperatureSensors-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.HPTemperatureSensors
