@@ -778,3 +778,6 @@
 [submodule "ZenPacks.MJW.BarracudaMonitor-(zenoss)/repo"]
 	path = ZenPacks.MJW.BarracudaMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.MJW.BarracudaMonitor
+[submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring-(zenoss)/repo"]
+	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.OndrejJakubcik.OracleHwMonitoring
