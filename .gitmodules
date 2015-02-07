@@ -418,3 +418,6 @@
 [submodule "ZenPacks.Lais.Asterisk-(zenoss)/repo"]
 	path = ZenPacks.Lais.Asterisk-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Lais.Asterisk
+[submodule "ZenPacks.Nova.UCDFileSystemMap-(zenoss)/repo"]
+	path = ZenPacks.Nova.UCDFileSystemMap-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Nova.UCDFileSystemMap
