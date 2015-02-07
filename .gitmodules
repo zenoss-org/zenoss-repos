@@ -943,3 +943,6 @@
 [submodule "ZenPacks.ZenSystems.ApcPdu-(jcurry)/repo"]
 	path = ZenPacks.ZenSystems.ApcPdu-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcPdu
+[submodule "ZenPacks.ZenSystems.olsonPower-(jcurry)/repo"]
+	path = ZenPacks.ZenSystems.olsonPower-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.olsonPower
