@@ -1234,3 +1234,6 @@
 [submodule "ZenPacks.CS.NetApp-(htolic)/repo"]
 	path = ZenPacks.CS.NetApp-(htolic)/repo
 	url = https://github.com/htolic/ZenPacks.CS.NetApp
+[submodule "ZenPacks.presidencia.CustomReports-(luizzmizz)/repo"]
+	path = ZenPacks.presidencia.CustomReports-(luizzmizz)/repo
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.CustomReports
