@@ -910,3 +910,6 @@
 [submodule "ZenPacks.Nova.Collector.Tool-(nyeates)/repo"]
 	path = ZenPacks.Nova.Collector.Tool-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.Collector.Tool
+[submodule "ZenPacks.Nova.Windows.SNMPPerfMonitor-(nyeates)/repo"]
+	path = ZenPacks.Nova.Windows.SNMPPerfMonitor-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nova.Windows.SNMPPerfMonitor
