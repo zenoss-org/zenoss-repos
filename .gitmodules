@@ -76,3 +76,6 @@
 [submodule "ZenPacks.community.HPMon-(epuzanov)/repo"]
 	path = ZenPacks.community.HPMon-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.HPMon
+[submodule "ZenPacks.community.PgSQLMon-(epuzanov)/repo"]
+	path = ZenPacks.community.PgSQLMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.PgSQLMon
