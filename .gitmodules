@@ -775,3 +775,6 @@
 [submodule "ZenPacks.LearningObjects.PostgresqlMonitor-(zenoss)/repo"]
 	path = ZenPacks.LearningObjects.PostgresqlMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.LearningObjects.PostgresqlMonitor
+[submodule "ZenPacks.MJW.BarracudaMonitor-(zenoss)/repo"]
+	path = ZenPacks.MJW.BarracudaMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.MJW.BarracudaMonitor
