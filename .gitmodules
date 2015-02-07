@@ -1429,3 +1429,6 @@
 [submodule "ZenPacks.zenoss.ZenossVirtualHostMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.ZenossVirtualHostMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.ZenossVirtualHostMonitor
+[submodule "ZenPacks.SteelHouseLabs.EventForwarder-(SteelHouseLabs)/repo"]
+	path = ZenPacks.SteelHouseLabs.EventForwarder-(SteelHouseLabs)/repo
+	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.EventForwarder
