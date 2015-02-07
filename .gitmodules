@@ -496,3 +496,6 @@
 [submodule "ZenPacks.community.Perfmon-(zenoss)/repo"]
 	path = ZenPacks.community.Perfmon-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Perfmon
+[submodule "ZenPacks.community.PowerConnect-(zenoss)/repo"]
+	path = ZenPacks.community.PowerConnect-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.PowerConnect
