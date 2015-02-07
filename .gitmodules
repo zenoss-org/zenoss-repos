@@ -1459,3 +1459,6 @@
 [submodule "ZenPacks.community.zenMicrosoftMQ-(j053ph4)/repo"]
 	path = ZenPacks.community.zenMicrosoftMQ-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenMicrosoftMQ
+[submodule "ZenPacks.ssv.InstalledSoftwareReport-(sergevs)/repo"]
+	path = ZenPacks.ssv.InstalledSoftwareReport-(sergevs)/repo
+	url = https://github.com/sergevs/ZenPacks.ssv.InstalledSoftwareReport
