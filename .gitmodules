@@ -781,3 +781,6 @@
 [submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring-(zenoss)/repo"]
 	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.OndrejJakubcik.OracleHwMonitoring
+[submodule "ZenPacks.Opengear.ConsoleServer-(zenoss)/repo"]
+	path = ZenPacks.Opengear.ConsoleServer-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Opengear.ConsoleServer
