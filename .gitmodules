@@ -499,3 +499,6 @@
 [submodule "ZenPacks.community.PowerConnect-(zenoss)/repo"]
 	path = ZenPacks.community.PowerConnect-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.PowerConnect
+[submodule "ZenPacks.community.PrinterToner-(zenoss)/repo"]
+	path = ZenPacks.community.PrinterToner-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.PrinterToner
