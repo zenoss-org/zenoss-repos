@@ -541,3 +541,6 @@
 [submodule "ZenPacks.JanGaraj.TcpStat-(jangaraj)/repo"]
 	path = ZenPacks.JanGaraj.TcpStat-(jangaraj)/repo
 	url = https://github.com/jangaraj/ZenPacks.JanGaraj.TcpStat
+[submodule "ZenPacks.community.HAProxy-(alienth)/repo"]
+	path = ZenPacks.community.HAProxy-(alienth)/repo
+	url = https://github.com/alienth/ZenPacks.community.HAProxy
