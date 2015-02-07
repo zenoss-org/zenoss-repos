@@ -556,3 +556,6 @@
 [submodule "ZenPacks.community.ComponentsCleaner-(epuzanov)/repo"]
 	path = ZenPacks.community.ComponentsCleaner-(epuzanov)/repo
 	url = https://github.com/epuzanov/ZenPacks.community.ComponentsCleaner
+[submodule "ZenPacks.community.IBMMon-(epuzanov)/repo"]
+	path = ZenPacks.community.IBMMon-(epuzanov)/repo
+	url = https://github.com/epuzanov/ZenPacks.community.IBMMon
