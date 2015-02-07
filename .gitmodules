@@ -769,3 +769,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Powernet7930-(zenoss)/repo"]
 	path = ZenPacks.Iwillfearnoevil.Powernet7930-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet7930
+[submodule "ZenPacks.Iwillfearnoevil.Powernet9225-(zenoss)/repo"]
+	path = ZenPacks.Iwillfearnoevil.Powernet9225-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet9225
