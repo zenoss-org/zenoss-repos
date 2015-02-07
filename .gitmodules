@@ -43,3 +43,6 @@
 [submodule "Script-Alert-PagerDuty-(zsprackett)/repo"]
 	path = Script-Alert-PagerDuty-(zsprackett)/repo
 	url = https://github.com/zsprackett/pagerduty_zenoss
+[submodule "API-Ruby-(zenchild)/repo"]
+	path = API-Ruby-(zenchild)/repo
+	url = https://github.com/zenchild/zenoss_client
