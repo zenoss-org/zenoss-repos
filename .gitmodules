@@ -25,3 +25,6 @@
 [submodule "Integration-Android-Zendroid-(slashmili)/repo"]
 	path = Integration-Android-Zendroid-(slashmili)/repo
 	url = https://github.com/slashmili/Zendroid
+[submodule "API-Python-(iamseth)/repo"]
+	path = API-Python-(iamseth)/repo
+	url = https://github.com/iamseth/python-zenoss
