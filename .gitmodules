@@ -1129,3 +1129,6 @@
 [submodule "ZenPacks.community.CheckDomain-(nickanderson)/repo"]
 	path = ZenPacks.community.CheckDomain-(nickanderson)/repo
 	url = https://github.com/nickanderson/ZenPacks.community.CheckDomain
+[submodule "ZenPacks.community.Supervisor-(g-k)/repo"]
+	path = ZenPacks.community.Supervisor-(g-k)/repo
+	url = https://github.com/g-k/ZenPacks.community.Supervisor
