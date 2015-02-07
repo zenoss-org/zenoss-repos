@@ -196,3 +196,6 @@
 [submodule "ZenPacks.community.zenHttpComponent-(j053ph4)/repo"]
 	path = ZenPacks.community.zenHttpComponent-(j053ph4)/repo
 	url = https://github.com/j053ph4/ZenPacks.community.zenHttpComponent
+[submodule "ZenPacks.Cascadeo.ZenRDS-(cascadeo)/repo"]
+	path = ZenPacks.Cascadeo.ZenRDS-(cascadeo)/repo
+	url = https://github.com/cascadeo/ZenPacks.Cascadeo.ZenRDS
