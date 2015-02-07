@@ -1189,3 +1189,6 @@
 [submodule "ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd
+[submodule "ZenPacks.community.UbiquitiWireless-(aalejandro)/repo"]
+	path = ZenPacks.community.UbiquitiWireless-(aalejandro)/repo
+	url = https://github.com/aalejandro/ZenPacks.community.UbiquitiWireless
