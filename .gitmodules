@@ -676,3 +676,6 @@
 [submodule "ZenPacks.community.puppet-(zenoss)/repo"]
 	path = ZenPacks.community.puppet-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.puppet
+[submodule "ZenPacks.fdeckert.myDeviceIssues-(zenoss)/repo"]
+	path = ZenPacks.fdeckert.myDeviceIssues-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.fdeckert.myDeviceIssues
