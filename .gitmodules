@@ -907,3 +907,6 @@
 [submodule "ZenPacks.Nova.Cisco.Catalyst-(nyeates)/repo"]
 	path = ZenPacks.Nova.Cisco.Catalyst-(nyeates)/repo
 	url = https://github.com/nyeates/ZenPacks.Nova.Cisco.Catalyst
+[submodule "ZenPacks.Nova.Collector.Tool-(nyeates)/repo"]
+	path = ZenPacks.Nova.Collector.Tool-(nyeates)/repo
+	url = https://github.com/nyeates/ZenPacks.Nova.Collector.Tool
