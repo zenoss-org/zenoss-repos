@@ -895,3 +895,6 @@
 [submodule "ZenPacks.ShaneScott.QoS-(Hackman238)/repo"]
 	path = ZenPacks.ShaneScott.QoS-(Hackman238)/repo
 	url = https://github.com/Hackman238/ZenPacks.ShaneScott.QoS
+[submodule "ZenPacks.community.SMART-(aipai)/repo"]
+	path = ZenPacks.community.SMART-(aipai)/repo
+	url = https://github.com/aipai/ZenPacks.community.SMART
