@@ -1309,3 +1309,6 @@
 [submodule "ZenPacks.Nelop.SecurityOnion-(nelopsystems)/repo"]
 	path = ZenPacks.Nelop.SecurityOnion-(nelopsystems)/repo
 	url = https://github.com/nelopsystems/ZenPacks.Nelop.SecurityOnion
+[submodule "ZenPacks.community.CitrixMonitor-(alexandrud)/repo"]
+	path = ZenPacks.community.CitrixMonitor-(alexandrud)/repo
+	url = https://github.com/alexandrud/ZenPacks.community.CitrixMonitor
