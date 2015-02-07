@@ -1036,3 +1036,6 @@
 [submodule "ZenPacks.ssv.SubagentShell-(sergevs)/repo"]
 	path = ZenPacks.ssv.SubagentShell-(sergevs)/repo
 	url = https://github.com/sergevs/ZenPacks.ssv.SubagentShell
+[submodule "ZenPacks.community.Brocade-(j053ph4)/repo"]
+	path = ZenPacks.community.Brocade-(j053ph4)/repo
+	url = https://github.com/j053ph4/ZenPacks.community.Brocade
