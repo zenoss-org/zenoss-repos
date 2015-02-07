@@ -295,3 +295,6 @@
 [submodule "ZenPacks.zenoss.PythonCollector-(zenoss)/repo"]
 	path = ZenPacks.zenoss.PythonCollector-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.PythonCollector
+[submodule "ZenPacks.training.WeatherUnderground-(zenoss)/repo"]
+	path = ZenPacks.training.WeatherUnderground-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.training.WeatherUnderground
