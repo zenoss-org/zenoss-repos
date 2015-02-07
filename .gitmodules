@@ -1519,3 +1519,6 @@
 [submodule "ZenPacks.skills1st.FancyEmail-(jcurry)/repo"]
 	path = ZenPacks.skills1st.FancyEmail-(jcurry)/repo
 	url = https://github.com/jcurry/ZenPacks.skills1st.FancyEmail
+[submodule "ZenPacks.JanGaraj.DataMirroring-(jangaraj)/repo"]
+	path = ZenPacks.JanGaraj.DataMirroring-(jangaraj)/repo
+	url = https://github.com/jangaraj/ZenPacks.JanGaraj.DataMirroring
