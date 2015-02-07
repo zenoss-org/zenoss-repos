@@ -787,3 +787,6 @@
 [submodule "ZenPacks.Peak6JC.WeatherGoose-(zenoss)/repo"]
 	path = ZenPacks.Peak6JC.WeatherGoose-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Peak6JC.WeatherGoose
+[submodule "ZenPacks.RomanTykhonov.OracleDB-(zenoss)/repo"]
+	path = ZenPacks.RomanTykhonov.OracleDB-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.RomanTykhonov.OracleDB
