@@ -238,3 +238,6 @@
 [submodule "ZenPacks.training.NetBotz-(pcarinhas)/repo"]
 	path = ZenPacks.training.NetBotz-(pcarinhas)/repo
 	url = https://github.com/pcarinhas/ZenPacks.training.NetBotz
+[submodule "ZenPacks.zenoss.CalculatedPerformance-(zenoss)/repo"]
+	path = ZenPacks.zenoss.CalculatedPerformance-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.CalculatedPerformance
