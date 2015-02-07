@@ -103,3 +103,6 @@
 [submodule "ZenPacks.community.VMwareESXiMonitor-(ericenns)/repo"]
 	path = ZenPacks.community.VMwareESXiMonitor-(ericenns)/repo
 	url = https://github.com/ericenns/ZenPacks.community.VMwareESXiMonitor
+[submodule "ZenPacks.zenoss.PostgreSQL-(zenoss)/repo"]
+	path = ZenPacks.zenoss.PostgreSQL-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.PostgreSQL
