@@ -220,3 +220,6 @@
 [submodule "ZenPacks.community.OSX-(zenoss)/repo"]
 	path = ZenPacks.community.OSX-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.OSX
+[submodule "ZenPacks.ShaneScott.DeviceSearch-(zenoss)/repo"]
+	path = ZenPacks.ShaneScott.DeviceSearch-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.ShaneScott.DeviceSearch
