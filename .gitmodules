@@ -745,3 +745,6 @@
 [submodule "ZenPacks.AndreaConsadori.Raytalk-(zenoss)/repo"]
 	path = ZenPacks.AndreaConsadori.Raytalk-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.AndreaConsadori.Raytalk
+[submodule "ZenPacks.BlakeDrager.Bridgewave-(zenoss)/repo"]
+	path = ZenPacks.BlakeDrager.Bridgewave-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.BlakeDrager.Bridgewave
