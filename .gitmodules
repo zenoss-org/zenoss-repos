@@ -232,3 +232,6 @@
 [submodule "ZenPacks.community.VMwareDataSource-(ericenns)/repo"]
 	path = ZenPacks.community.VMwareDataSource-(ericenns)/repo
 	url = https://github.com/ericenns/ZenPacks.community.VMwareDataSource
+[submodule "ZenPacks.community.Rundeck-(dpetzel)/repo"]
+	path = ZenPacks.community.Rundeck-(dpetzel)/repo
+	url = https://github.com/dpetzel/ZenPacks.community.Rundeck
