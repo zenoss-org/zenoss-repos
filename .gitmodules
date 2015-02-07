@@ -7,3 +7,6 @@
 [submodule "Script-Alert-Slack-(ssplatt)/repo"]
 	path = Script-Alert-Slack-(ssplatt)/repo
 	url = https://github.com/ssplatt/slack_webhook_scripts
+[submodule "Script-Alert-Pushover-(nathan-oakes)/repo"]
+	path = Script-Alert-Pushover-(nathan-oakes)/repo
+	url = https://github.com/nathan-oakes/zenoss-pushover
