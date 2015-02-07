@@ -1204,3 +1204,6 @@
 [submodule "ZenPacks.community.PacketFence-(crouthamela)/repo"]
 	path = ZenPacks.community.PacketFence-(crouthamela)/repo
 	url = https://github.com/crouthamela/ZenPacks.community.PacketFence
+[submodule "ZenPacks.Markit.RigHost-(jcurry)/repo"]
+	path = ZenPacks.Markit.RigHost-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.Markit.RigHost
