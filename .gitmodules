@@ -1537,3 +1537,6 @@
 [submodule "ZenPacks.SteelHouseLabs.Cisco.MIB.Products-(SteelHouseLabs)/repo"]
 	path = ZenPacks.SteelHouseLabs.Cisco.MIB.Products-(SteelHouseLabs)/repo
 	url = https://github.com/SteelHouseLabs/ZenPacks.SteelHouseLabs.Cisco.MIB.Products
+[submodule "ZenPacks.skills1st.createNewRole-(jcurry)/repo"]
+	path = ZenPacks.skills1st.createNewRole-(jcurry)/repo
+	url = https://github.com/jcurry/ZenPacks.skills1st.createNewRole
