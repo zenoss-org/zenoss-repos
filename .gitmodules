@@ -1081,3 +1081,6 @@
 [submodule "ZenPacks.zenoss.HttpMonitor-(zenoss)/repo"]
 	path = ZenPacks.zenoss.HttpMonitor-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.zenoss.HttpMonitor
+[submodule "ZenPacks.zenoss.IISMonitor-(zenoss)/repo"]
+	path = ZenPacks.zenoss.IISMonitor-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.zenoss.IISMonitor
