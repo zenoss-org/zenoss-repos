@@ -826,3 +826,6 @@
 [submodule "ZenPacks.community.EmailPing-(zenoss)/repo"]
 	path = ZenPacks.community.EmailPing-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.EmailPing
+[submodule "ZenPacks.community.Fedora-(zenoss)/repo"]
+	path = ZenPacks.community.Fedora-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.Fedora
