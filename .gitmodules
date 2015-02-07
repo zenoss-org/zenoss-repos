@@ -454,3 +454,6 @@
 [submodule "ZenPacks.community.Gentoo-(zenoss)/repo"]
 	path = ZenPacks.community.Gentoo-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.community.Gentoo
+[submodule "ZenPacks.community.HPPrinterTrapTransforms-(zenoss)/repo"]
+	path = ZenPacks.community.HPPrinterTrapTransforms-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.community.HPPrinterTrapTransforms
