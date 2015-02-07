@@ -433,3 +433,6 @@
 [submodule "ZenPacks.Veritas.Netbackup-(zenoss)/repo"]
 	path = ZenPacks.Veritas.Netbackup-(zenoss)/repo
 	url = https://github.com/zenoss/ZenPacks.Veritas.Netbackup
+[submodule "ZenPacks.atrawog.Brocade-(zenoss)/repo"]
+	path = ZenPacks.atrawog.Brocade-(zenoss)/repo
+	url = https://github.com/zenoss/ZenPacks.atrawog.Brocade
